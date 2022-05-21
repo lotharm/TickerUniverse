@@ -1,0 +1,41 @@
+NAME;TICKER;TRUENAMES;;
+0;DIA;SPDR Dow Jones Industrial Average ETF Trust;ETF;sector
+33;GLD;SPDR Gold Shares;ETF;sector
+34;SLV;SPDR Silver Shares;ETF;sector
+33;TLT;SPDR 10y+ Treasury;ETF;sector
+44;HYG;SPDR High Yield Bond;ETF;sector
+1;IBB;iShares Biotechnology ETF;ETF;sector
+2;IVE;iShares S&P 500 Value ETF;ETF;sector
+22;IWD;Russel 1000 Value;ETF;sector
+23;IWF;Russel 1000 Growth;ETF;sector
+3;IVW;iShares S&P 500 Growth ETF;ETF;sector
+4;IWM;iShares Russell 2000 ETF;ETF;sector
+5;IYR;iShares U.S. Real Estate ETF;ETF;sector
+6;IYT;iShares Transportation Average ETF;ETF;sector
+7;IYZ;iShares U.S. Telecommunications ETF;ETF;sector
+8;KBE;SPDR S&P Bank ETF;ETF;sector
+9;KIE;SPDR S&P Insurance ETF;ETF;sector
+36;LQD;iShares iBoxx $ Investment Grade Corporate Bond ETF;ETF;sector
+10;MDY;SPDR S&P MIDCAP 400 ETF Trust;ETF;sector
+11;MDYG;SPDR S&P 400 Mid Cap Growth ETF;ETF;sector
+12;MDYV;SPDR S&P 400 Mid Cap Value ETF;ETF;sector
+14;QQQ;Invesco QQQ Trust;ETF;sector
+15;SLY;SPDR S&P 600 Small Cap ETF;ETF;sector
+16;SLYG;SPDR S&P 600 Small Cap Growth ETF;ETF;sector
+17;SLYV;SPDR S&P 600 Small Cap Value ETF;ETF;sector
+18;SMH;VanEck Vectors Semiconductor ETF;ETF;sector
+19;SPY;SPDR S&P 500 ETF Trust;ETF;sector
+38;TIP;iShares TIPS Bond ETF;ETF;sector
+20;XLB;Materials Select Sector SPDR Fund;ETF;sector
+21;XLE;Energy Select Sector SPDR Fund;ETF;sector
+22;XLF;Financial Select Sector SPDR Fund;ETF;sector
+23;XLK;Technology Select Sector SPDR Fund;ETF;sector
+24;XLP;Consumer Staples Select Sector SPDR Fund;ETF;sector
+25;XLU;Utilities Select Sector SPDR Fund;ETF;sector
+26;XLV;Health Care Select Sector SPDR Fund;ETF;sector
+27;XLY;Consumer Discretionary Select Sector SPDR Fund;ETF;sector
+99;XLC;Communication services;ETF;sector
+111;XME;Metals and Mining;ETF;sector
+122;RSP;SP equal wheigth;ETF;sector
+222;SPHB;High beta;ETF;sector
+333;SPLV;low vola;ETF;sector

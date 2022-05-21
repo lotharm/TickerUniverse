@@ -1,0 +1,49 @@
+WKN;TICKER;TRUENAMES;TYP;NAME;
+342;6FIN.DE;MULTI-UNITS LUXEMBOURG - Lyxor STOXX Europe 600 Financial Services UCITS ETF 2;ETF;sector
+362;6TVL.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Travel &amp; Leisure UCITS ETF 2";ETF;sector
+261;AME6.DE;Amundi Index Solutions - Amundi Stoxx Europe 600;ETF;sector
+31;EZU;iShares MSCI Eurozone ETF;ETF;sector
+200;XSXE.DE;Xtrackers - Stoxx Europe 600 UCITS ETF;ETF;sector
+667;EXV7.DE;iShares (DE) I - iShares STOXX Europe 600 Chemicals UCITS ETF (DE);ETF;sector
+668;EXV8.DE;"iShares STOXX Europe 600 Construction &amp; Materials UCITS ETF (DE)";ETF;sector
+680;EXV9.DE;iShares (DE) I - iShares STOXX Europe 600 Travel & Leisure UCITS ETF (DE);ETF;sector
+311;18M3.DE;Amundi ETF MSCI Europe Banks UCITS ETF;ETF;sector
+313;18M6.DE;Amundi ETF MSCI Europe Healthcare UCITS ETF;ETF;sector
+312;AMEE.DE;Amundi ETF MSCI Europe Energy UCITS ETF;ETF;sector
+358;CSTA.DE;Lyxor STOXX Europe 600 Technology UCITS ETF Dis;ETF;sector
+338;CSTD.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Construction &amp; Materials UCITS ETF Inc";ETF;sector
+198;DXSC.DE;Xtrackers Stoxx Europe 600 Basic Resources Swap UCITS ETF 1C;ETF;sector
+199;DXSD.DE;Xtrackers - Stoxx Europe 600 Oil & Gas Swap UCITS ETF;ETF;sector
+47;DXSE.DE;Xtrackers - Stoxx Europe 600 Health Care Swap UCITS ETF;ETF;sector
+45;DXSF.DE;Xtrackers - Stoxx Europe 600 Banks Swap UCITS ETF;ETF;sector
+50;DXSG.DE;Xtrackers - Stoxx Europe 600 Telecommunications Swap UCITS ETF;ETF;sector
+49;DXSH.DE;Xtrackers - Stoxx Europe 600 Technology Swap UCITS ETF;ETF;sector
+51;DXSI.DE;Xtrackers - Stoxx Europe 600 Utilities Swap UCITS ETF;ETF;sector
+46;DXSK.DE;"Xtrackers Stoxx Europe 600 Food &amp; Beverage Swap UCITS ETF 1C";ETF;sector
+565;IQQS.DE;iShares EURO STOXX Small UCITS ETF EUR (Dist);ETF;sector
+48;DXSL.DE;Xtrackers Stoxx Europe 600 Industrial Goods Swap UCITS ETF 1C;ETF;sector
+14;D5BK.DE;Xtrackers FTSE Developed Europe Real Estate UCITS ETF 1C;ETF;sector
+775;EUNZ.DE;iShares STOXX Europe 50 UCITS ETF EUR (Dist);ETF;sector
+574;EXH1.DE;iShares (DE) I - iShares STOXX Europe 600 Oil & Gas UCITS ETF (DE);ETF;sector
+669;EXH2.DE;iShares (DE) I - iShares STOXX Europe 600 Financial Services UCITS ETF (DE);ETF;sector
+670;EXH3.DE;iShares (DE) I - iShares STOXX Europe 600 Food & Beverage UCITS ETF (DE);ETF;sector
+672;EXH4.DE;"iShares STOXX Europe 600 Industrial Goods &amp; Services UCITS ETF (DE)";ETF;sector
+673;EXH5.DE;iShares STOXX Europe 600 Insurance UCITS ETF (DE);ETF;sector
+674;EXH6.DE;iShares (DE) I - iShares STOXX Europe 600 Media UCITS ETF (DE);ETF;sector
+675;EXH7.DE;iShares (DE) I - iShares STOXX Europe 600 Personal & Household Goods UCITS ETF (DE);ETF;sector
+677;EXH8.DE;iShares STOXX Europe 600 Retail UCITS ETF (DE);ETF;sector
+681;EXH9.DE;iShares (DE) I - iShares STOXX Europe 600 Utilities UCITS ETF (DE);ETF;sector
+332;INDA.DE;MULTI-UNITS LUXEMBOURG - Lyxor STOXX Europe 600 Banks UCITS ETF 2;ETF;sector
+360;INDB.DE;MULTI-UNITS LUXEMBOURG - Lyxor STOXX Europe 600 Telecommunications UCITS ETF 2;ETF;sector
+346;INDU.DE;"Lyxor STOXX Europe 600 Industrial Goods &amp; Services UCITS ETF Dis";ETF;sector
+481;EABE.DE;"Lyxor Net Zero 2050 S&amp;P Europe Climate PAB (DR) UCITS ETF - Acc";ETF;sector
+343;LHTC.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Healthcare UCITS ETF Acc;ETF;sector
+345;LIGS.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Industrial Goods &amp; Services UCITS ETF Acc";ETF;sector
+347;LIRU.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Insurance UCITS ETF Acc;ETF;sector
+351;LOGS.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Oil & Gas UCITS ETF;ETF;sector
+353;LPHG.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Personal &amp; Household Goods UCITS ETF Acc";ETF;sector
+355;LRET.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Retail UCITS ETF Acc;ETF;sector
+359;LTCM.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Telecommunications UCITS ETF Acc;ETF;sector
+357;LTUG.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Technology UCITS ETF;ETF;sector
+524;SXRW.DE;iShares VII Public Limited Company - iShares FTSE 100 UCITS ETF;ETF;sector
+525;SXRY.DE;iShares VII Public Limited Company - iShares FTSE MIB UCITS ETF EUR (Acc);ETF;sector

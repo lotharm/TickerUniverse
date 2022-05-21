@@ -1,0 +1,21 @@
+WKN;ISIN;TICKER;TYP;NAME;TRUENAMES
+Small-Cap;Small-Cap;IJR;ETF;Small-Cap;Small-Cap
+Value;Value;IWD;ETF;Value;Value
+Low Volatility;Low Volatility;USMV;ETF;Low Volatility;Low Volatility
+Momentum;Momentum;MTUM;ETF;Momentum;Momentum
+High Dividend Yield;High Dividend Yield;VYM;ETF;High Dividend Yield;High Dividend Yield
+Growth;Growth;IWF;ETF;Growth;Growth
+Spin-offs;Spin-offs;CSD;ETF;Spin-offs;Spin-offs
+Buybacks;Buybacks;PKW;ETF;Buybacks;Buybacks
+Quality;Quality;QUAL;ETF;Quality;Quality
+Hedge Funds;Hedge Funds;GURU;ETF;Hedge Funds;Hedge Funds
+IPOs;IPOs;IPO;ETF;IPOs;IPOs
+Private Equity;Private Equity;PSP;ETF;Private Equity;Private Equity
+Mid-Cap Value;Mid-Cap Value;IJJ;ETF;Mid-Cap Value;Mid-Cap Value
+Small-Cap Value;Small-Cap Value;IWN;ETF;Small-Cap Value;Small-Cap Value
+Small-Cap Core;Small-Cap Core;IWM;ETF;Small-Cap Core;Small-Cap Core
+Mid-Cap Core;Mid-Cap Core;IJH;ETF;Mid-Cap Core;Mid-Cap Core
+Large-Cap Value;Large-Cap Value;IVE;ETF;Large-Cap Value;Large-Cap Value
+Small-Cap Growth;Small-Cap Growth;IWO;ETF;Small-Cap Growth;Small-Cap Growth
+Mid-Cap Growth;Mid-Cap Growth;IJK;ETF;Mid-Cap Growth;Mid-Cap Growth
+Large-Cap Growth;Large-Cap Growth;IVW;ETF;Large-Cap Growth;Large-Cap Growth

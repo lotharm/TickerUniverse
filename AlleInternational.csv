@@ -1,0 +1,193 @@
+WKN;ISIN;TICKER;TYP;NAME;TRUENAMES
+111111;2222222222;ISCV;ETF;iShares Morningstar Small-Cap V;iShares Morningstar Small-Cap V 
+111111;2222222222;ILCB;ETF;iShares Morningstar Large-Cap E;iShares Morningstar Large-Cap E 
+111111;2222222222;IMCB;ETF;iShares Morningstar Mid-Cap ETF;iShares Morningstar Mid-Cap ETF 
+111111;2222222222;GOAT;ETF;VanEck Vectors Morningstar Glob;VanEck Vectors Morningstar Glob 
+111111;2222222222;ILCV;ETF;iShares Morningstar Large-Cap;iShares Morningstar Large-Cap 
+111111;2222222222;MOTI;ETF;VanEck Vectors Morningstar Inte;VanEck Vectors Morningstar Inte 
+111111;2222222222;IMCV;ETF;iShares Morningstar Mid-Cap Val;iShares Morningstar Mid-Cap Val 
+111111;2222222222;ISCB;ETF;iShares Morningstar Small-Cap E;iShares Morningstar Small-Cap E 
+111111;2222222222;DURA;ETF;VanEck Vectors Morningstar Dura;VanEck Vectors Morningstar Dura 
+111111;2222222222;ALTS;ETF;ProShares Morningstar Alternati;ProShares Morningstar Alternati 
+111111;2222222222;TLTE;ETF;FlexShares Morningstar Emerging;FlexShares Morningstar Emerging 
+111111;2222222222;QXM.TO;ETF;CI MORNINGSTAR NB QUEBEC ETF;CI MORNINGSTAR NB QUEBEC ETF 
+111111;2222222222;XXM.TO;ETF;CI MORNINGSTAR US VALUE INDEX E;CI MORNINGSTAR US VALUE INDEX E 
+111111;2222222222;TLTD;ETF;FlexShares Morningstar Develope;FlexShares Morningstar Develope 
+111111;2222222222;FXM.TO;ETF;CI MORNINGSTAR CDA VALUE IDX ET;CI MORNINGSTAR CDA VALUE IDX ET 
+111111;2222222222;WXM.TO;ETF;CI MORNINGSTAR CDA MOMENTUM IDX;CI MORNINGSTAR CDA MOMENTUM IDX 
+111111;2222222222;ZXM.TO;ETF;CI MORNINGSTAR INTL MOMENTUM ID;CI MORNINGSTAR INTL MOMENTUM ID 
+111111;2222222222;ZXM-B.TO;ETF;CI MORNINGSTAR INTL MOMENTUM UN;CI MORNINGSTAR INTL MOMENTUM UN 
+111111;2222222222;TMEC.TO;ETF;TD MORNINGSTAR ESG CDA EQTY IDX;TD MORNINGSTAR ESG CDA EQTY IDX 
+111111;2222222222;HHF.TO;ETF;HORIZONS MORNINGSTAR HDG FD IDX;HORIZONS MORNINGSTAR HDG FD IDX 
+111111;2222222222;342140.KS;ETF;KINDEX Morningstar SG REITs Ble;KINDEX Morningstar SG REITs Ble 
+111111;2222222222;TMEU.TO;ETF;TD MORNINGSTAR ESG US EQUITY IN;TD MORNINGSTAR ESG US EQUITY IN 
+111111;2222222222;YXM.TO;ETF;CI MORNINGSTAR US MOMENTUM INDE;CI MORNINGSTAR US MOMENTUM INDE 
+111111;2222222222;TMEI.TO;ETF;TD MORNINGSTAR ESG INTL EQTY ID;TD MORNINGSTAR ESG INTL EQTY ID 
+111111;2222222222;TDIV.MI;ETF;VANECK MORNINGSTAR DM DIVIDEND;VANECK MORNINGSTAR DM DIVIDEND 
+111111;2222222222;LCUS.DE;ETF;LYXOR CORE MORNINGSTAR US DR UC;LYXOR CORE MORNINGSTAR US DR UC 
+111111;2222222222;GOAT.SW;ETF;VanEck Morningstar GOAT ETF;VanEck Morningstar GOAT ETF 
+111111;2222222222;YXM-B.TO;ETF;CI MORNINGSTAR US MOMENTUM UNHD;CI MORNINGSTAR US MOMENTUM UNHD 
+111111;2222222222;VXM.TO;ETF;CI MORNINGSTAR INTL VALUE IDX E;CI MORNINGSTAR INTL VALUE IDX E 
+111111;2222222222;SPY;ETF;Spyder SP500 ETF;Spyder SP500 ETF 
+111111;2222222222;IWM;ETF;iShares Russell 2000 ETF;iShares Russell 2000 ETF 
+111111;2222222222;RYLD;ETF;Global X Russell 2000 Covered C;Global X Russell 2000 Covered C 
+111111;2222222222;IWN;ETF;iShares Russell 2000 Value ETF;iShares Russell 2000 Value ETF 
+111111;2222222222;URTY;ETF;ProShares UltraPro Russell2000;ProShares UltraPro Russell2000 
+111111;2222222222;VTWO;ETF;Vanguard Russell 2000 ETF;Vanguard Russell 2000 ETF 
+111111;2222222222;IWD;ETF;iShares Russell 1000 Value ETF;iShares Russell 1000 Value ETF 
+111111;2222222222;VONG;ETF;Vanguard Russell 1000 Growth ET;Vanguard Russell 1000 Growth ET 
+111111;2222222222;RSX;ETF;VanEck Vectors Russia ETF;VanEck Vectors Russia ETF 
+111111;2222222222;VTWV;ETF;Vanguard Russell 2000 Value ETF;Vanguard Russell 2000 Value ETF 
+111111;2222222222;VONV;ETF;Vanguard Russell 1000 Value ETF;Vanguard Russell 1000 Value ETF 
+111111;2222222222;UWM;ETF;ProShares Ultra Russell2000;ProShares Ultra Russell2000 
+111111;2222222222;IWP;ETF;iShares Russell Midcap Growth E;iShares Russell Midcap Growth E 
+111111;2222222222;TWM;ETF;ProShares UltraShort Russell200;ProShares UltraShort Russell200 
+111111;2222222222;RWM;ETF;ProShares Short Russell2000;ProShares Short Russell2000 
+111111;2222222222;IWV;ETF;iShares Russell 3000 ETF;iShares Russell 3000 ETF 
+111111;2222222222;IWB;ETF;iShares Russell 1000 ETF;iShares Russell 1000 ETF 
+111111;2222222222;RUSL;ETF;Direxion Daily Russia Bull 2X S;Direxion Daily Russia Bull 2X S 
+111111;2222222222;ERUS;ETF;iShares MSCI iShares MSCI Russi;iShares MSCI iShares MSCI Russi 
+111111;2222222222;IWR;ETF;iShares Russell Mid-Cap ETF;iShares Russell Mid-Cap ETF 
+111111;2222222222;IWY;ETF;iShares Russell Top 200 Growth;iShares Russell Top 200 Growth 
+111111;2222222222;PY;ETF;SPDR S&P 500;SPDR S&P 500 
+111111;2222222222;QQQ;ETF;Invesco QQQ Trust, Series 1;Invesco QQQ Trust, Series 1 
+111111;2222222222;SOXL;ETF;Direxion Daily Semiconductor Bu;Direxion Daily Semiconductor Bu 
+111111;2222222222;UVXY;ETF;ProShares Trust Ultra VIX Short;ProShares Trust Ultra VIX Short 
+111111;2222222222;OIH;ETF;VanEck Vectors Oil Services ETF;VanEck Vectors Oil Services ETF 
+111111;2222222222;VOO;ETF;Vanguard S&P 500 ETF;Vanguard S&P 500 ETF 
+111111;2222222222;XLE;ETF;SPDR Select Sector Fund - Energ;SPDR Select Sector Fund - Energ 
+111111;2222222222;SLV;ETF;iShares Silver Trust;iShares Silver Trust 
+111111;2222222222;GLD;ETF;SPDR Gold Trust;SPDR Gold Trust 
+111111;2222222222;VTI;ETF;Vanguard Total Stock Market ETF;Vanguard Total Stock Market ETF 
+111111;2222222222;XLF;ETF;SPDR Select Sector Fund - Finan;SPDR Select Sector Fund - Finan 
+111111;2222222222;LABU;ETF;Direxion Daily S&P Biotech Bull;Direxion Daily S&P Biotech Bull 
+111111;2222222222;GUSH;ETF;Direxion Daily S&P Oil & Gas Ex;Direxion Daily S&P Oil & Gas Ex 
+111111;2222222222;USO;ETF;United States Oil Fund;United States Oil Fund 
+111111;2222222222;SMH;ETF;VanEck Vectors Semiconductor ET;VanEck Vectors Semiconductor ET 
+111111;2222222222;SCHD;ETF;Schwab US Dividend Equity ETF;Schwab US Dividend Equity ETF 
+111111;2222222222;DIA;ETF;SPDR Dow Jones Industrial Avera;SPDR Dow Jones Industrial Avera 
+111111;2222222222;TZA;ETF;Direxion Small Cap Bear 3X Shar;Direxion Small Cap Bear 3X Shar 
+111111;2222222222;XLK;ETF;SPDR Select Sector Fund - Techn;SPDR Select Sector Fund - Techn 
+111111;2222222222;XBI;ETF;SPDR Series Trust SPDR S&P Bio;SPDR Series Trust SPDR S&P Bio 
+111111;2222222222;SPYD;ETF;SPDR Series Trust SPDR Portfoli;SPDR Series Trust SPDR Portfoli 
+111111;2222222222;SPXL;ETF;Direxion Daily S&P 500 Bull 3X;Direxion Daily S&P 500 Bull 3X 
+111111;2222222222;TAN;ETF;Invesco Solar ETF;Invesco Solar ETF 
+111111;2222222222;SOXX;ETF;iShares PHLX SOX Semiconductor;iShares PHLX SOX Semiconductor 
+111111;2222222222;IVV;ETF;iShares Core S&P 500 ETF;iShares Core S&P 500 ETF 
+111111;2222222222;ARKX;ETF;ARK Space Exploration & Innovat;ARK Space Exploration & Innovat 
+111111;2222222222;NAIL;ETF;Direxion Daily Homebuilders & S;Direxion Daily Homebuilders & S 
+111111;2222222222;USOI;ETF;Credit Suisse X-Links Crude Oil;Credit Suisse X-Links Crude Oil 
+111111;2222222222;SLVO;ETF;Credit Suisse Silver Shares Cov;Credit Suisse Silver Shares Cov 
+111111;2222222222;TECL;ETF;Direxion Technology Bull 3X Sha;Direxion Technology Bull 3X Sha 
+111111;2222222222;IAU;ETF;iShares Gold Trust Shares of th;iShares Gold Trust Shares of th 
+111111;2222222222;XLI;ETF;SPDR Select Sector Fund - Indus;SPDR Select Sector Fund - Indus 
+111111;2222222222;SPHD;ETF;Invesco S&P 500 High Dividend L;Invesco S&P 500 High Dividend L 
+111111;2222222222;XLV;ETF;SPDR Select Sector Fund - Healt;SPDR Select Sector Fund - Healt 
+111111;2222222222;VT;ETF;Vanguard Total World Stock Inde;Vanguard Total World Stock Inde 
+111111;2222222222;VXUS;ETF;Vanguard Total International St;Vanguard Total International St 
+111111;2222222222;XLB;ETF;Materials Select Sector SPDR;Materials Select Sector SPDR 
+111111;2222222222;XLU;ETF;SPDR Select Sector Fund - Utili;SPDR Select Sector Fund - Utili 
+111111;2222222222;SILJ;ETF;ETFMG Prime Junior Silver Miner;ETFMG Prime Junior Silver Miner 
+111111;2222222222;UPRO;ETF;ProShares UltraPro S&P 500;ProShares UltraPro S&P 500 
+111111;2222222222;SDIV;ETF;Global X SuperDividend ETF;Global X SuperDividend ETF 
+111111;2222222222;XLY;ETF;SPDR Select Sector Fund - Consu;SPDR Select Sector Fund - Consu 
+111111;2222222222;AGQ;ETF;ProShares Ultra Silver;ProShares Ultra Silver 
+111111;2222222222;DRIP;ETF;Direxion Daily S&P Oil & Gas Ex;Direxion Daily S&P Oil & Gas Ex 
+111111;2222222222;XME;ETF;SPDR S&P Metals & Mining ETF;SPDR S&P Metals & Mining ETF 
+111111;2222222222;XLP;ETF;SPDR Select Sector Fund - Consu;SPDR Select Sector Fund - Consu 
+111111;2222222222;PFF;ETF;iShares Preferred and Income Se;iShares Preferred and Income Se 
+111111;2222222222;HACK;ETF;ETFMG Prime Cyber Security ETF;ETFMG Prime Cyber Security ETF 
+111111;2222222222;SPXU;ETF;ProShares UltraPro Short S&P500;ProShares UltraPro Short S&P500 
+111111;2222222222;SPYG;ETF;SPDR Series Trust SPDR Portfoli;SPDR Series Trust SPDR Portfoli 
+111111;2222222222;KRE;ETF;SPDR S&P Regional Banking ETF;SPDR S&P Regional Banking ETF 
+111111;2222222222;UNG;ETF;United States Natural Gas Fund;United States Natural Gas Fund 
+111111;2222222222;BUZZ;ETF;VanEck Vectors Social Sentiment;VanEck Vectors Social Sentiment 
+111111;2222222222;SRET;ETF;Global X SuperDividend REIT ETF;Global X SuperDividend REIT ETF 
+111111;2222222222;SRTY;ETF;ProShares UltraPro Short Russel;ProShares UltraPro Short Russel 
+111111;2222222222;SIL;ETF;Global X Silver Miners ETF;Global X Silver Miners ETF 
+111111;2222222222;SDS;ETF;ProShares UltraShort S&P500;ProShares UltraShort S&P500 
+111111;2222222222;VB;ETF;Vanguard Small-Cap ETF;Vanguard Small-Cap ETF 
+111111;2222222222;SDOW;ETF;UltraPro Short Dow30;UltraPro Short Dow30 
+111111;2222222222;DIV;ETF;Global X Super Dividend ETF;Global X Super Dividend ETF 
+111111;2222222222;REMX;ETF;VanEck Vectors Rare Earth Strat;VanEck Vectors Rare Earth Strat 
+111111;2222222222;XLRE;ETF;Real Estate Select Sector SPDR;Real Estate Select Sector SPDR 
+111111;2222222222;DVY;ETF;iShares Select Dividend ETF;iShares Select Dividend ETF 
+111111;2222222222;CPER;ETF;United States Copper Index Fund;United States Copper Index Fund 
+111111;2222222222;VTIP;ETF;Vanguard Short-Term Inflation-P;Vanguard Short-Term Inflation-P 
+111111;2222222222;XHB;ETF;SPDR Series Trust SPDR Homebuil;SPDR Series Trust SPDR Homebuil 
+111111;2222222222;NOBL;ETF;ProShares S&P 500 Dividend Aris;ProShares S&P 500 Dividend Aris 
+111111;2222222222;SVXY;ETF;ProShares Short VIX Short Term;ProShares Short VIX Short Term 
+111111;2222222222;IJR;ETF;iShares Core S&P Small-Cap ETF;iShares Core S&P Small-Cap ETF 
+111111;2222222222;SCHG;ETF;Schwab U.S. Large-Cap Growth ET;Schwab U.S. Large-Cap Growth ET 
+111111;2222222222;SPLG;ETF;SPDR Portfolio S&P 500 ETF;SPDR Portfolio S&P 500 ETF 
+111111;2222222222;BDRY;ETF;Breakwave Dry Bulk Shipping ETF;Breakwave Dry Bulk Shipping ETF 
+111111;2222222222;ITOT;ETF;iShares Core S&P Total U.S. Sto;iShares Core S&P Total U.S. Sto 
+111111;2222222222;SDY;ETF;SPDR S&P Dividend ETF;SPDR S&P Dividend ETF 
+111111;2222222222;SPYV;ETF;SPDR Series Trust SPDR Portfoli;SPDR Series Trust SPDR Portfoli 
+111111;2222222222;THCX;ETF;Spinnaker ETF Series The Cannab;Spinnaker ETF Series The Cannab 
+111111;2222222222;BETZ;ETF;Roundhill Sports Betting & iGam;Roundhill Sports Betting & iGam 
+111111;2222222222;AIA;ETF;iShares Asia 50 ETF;iShares Asia 50 ETF 
+111111;2222222222;AAXJ;ETF;iShares MSCI All Country Asia e;iShares MSCI All Country Asia e 
+111111;2222222222;DVYA;ETF;iShares Asia / Pacific Dividend;iShares Asia / Pacific Dividend 
+111111;2222222222;ASEA;ETF;Global X FTSE Southeast Asia ET;Global X FTSE Southeast Asia ET 
+111111;2222222222;GMF;ETF;SPDR S&P Emerging Asia Pacific;SPDR S&P Emerging Asia Pacific 
+111111;2222222222;CFA.SI;ETF;NikkoAM-STC Asia REIT;NikkoAM-STC Asia REIT 
+111111;2222222222;VA.TO;ETF;VANGUARD FTSE DEV ASIA PAC ALL;VANGUARD FTSE DEV ASIA PAC ALL 
+111111;2222222222;FPA;ETF;First Trust Asia Pacific Ex-Jap;First Trust Asia Pacific Ex-Jap 
+111111;2222222222;ADIV;ETF;SmartETFs Asia Pacific Dividend;SmartETFs Asia Pacific Dividend 
+111111;2222222222;AASI.MI;ETF;AMUNDI MSCI EM ASIA UCITS ETF -;AMUNDI MSCI EM ASIA UCITS ETF - 
+111111;2222222222;IAPD.AS;ETF;ISHARES ASIA PACIF;ISHARES ASIA PACIF 
+111111;2222222222;EMAE.PA;ETF;SPDR EM Asia;SPDR EM Asia 
+111111;2222222222;IDAR.L;ETF;ISHARES II PLC ISHRS ASIA PROPE;ISHARES II PLC ISHRS ASIA PROPE 
+111111;2222222222;PAASI.PA;ETF;AMUNDI PEA EM ASIA;AMUNDI PEA EM ASIA 
+111111;2222222222;IASP.MI;ETF;ISHARES ASIA PROPERTY YLD UCITS;ISHARES ASIA PROPERTY YLD UCITS 
+111111;2222222222;VUG;ETF;Vanguard Growth ETF;Vanguard Growth ETF 
+111111;2222222222;DGRO;ETF;iShares Core Dividend Growth ET;iShares Core Dividend Growth ET 
+111111;2222222222;MGK;ETF;Vanguard Mega Cap Growth ETF;Vanguard Mega Cap Growth ETF 
+111111;2222222222;VBK;ETF;Vanguard Small-Cap Growth ETF;Vanguard Small-Cap Growth ETF 
+111111;2222222222;VOOG;ETF;Vanguard S&P 500 Growth ETF;Vanguard S&P 500 Growth ETF 
+111111;2222222222;IVW;ETF;iShares S&P 500 Growth ETF;iShares S&P 500 Growth ETF 
+111111;2222222222;IWF;ETF;iShares Russell 1000 Growth ETF;iShares Russell 1000 Growth ETF 
+111111;2222222222;VOT;ETF;Vanguard Mid-Cap Growth ETF;Vanguard Mid-Cap Growth ETF 
+111111;2222222222;IWO;ETF;iShares Russell 2000 Growth ETF;iShares Russell 2000 Growth ETF 
+111111;2222222222;VGRO.TO;ETF;VANGUARD GROWTH ETF PORTFOLIO;VANGUARD GROWTH ETF PORTFOLIO 
+111111;2222222222;FBCG;ETF;Fidelity Blue Chip Growth ETF;Fidelity Blue Chip Growth ETF 
+111111;2222222222;AOR;ETF;iShares Core Growth Allocation;iShares Core Growth Allocation 
+111111;2222222222;VTWG;ETF;Vanguard Russell 2000 Growth ET;Vanguard Russell 2000 Growth ET 
+111111;2222222222;XGRO.TO;ETF;ISHARES CORE GROWTH ETF PORTFOL;ISHARES CORE GROWTH ETF PORTFOL 
+111111;2222222222;IUSG;ETF;iShares Core S&P U.S. Growth ET;iShares Core S&P U.S. Growth ET 
+111111;2222222222;FGRO;ETF;Fidelity Growth Opportunities E;Fidelity Growth Opportunities E 
+111111;2222222222;EFG;ETF;iShares MSCI EAFE Growth ETF;iShares MSCI EAFE Growth ETF 
+111111;2222222222;IJK;ETF;iShares S&P Mid-Cap 400 Growth;iShares S&P Mid-Cap 400 Growth 
+111111;2222222222;GXTG;ETF;Global X Thematic Growth ETF;Global X Thematic Growth ETF 
+111111;2222222222;MFMS;ETF;Motley Fool Small-Cap Growth ET;Motley Fool Small-Cap Growth ET 
+111111;2222222222;SLYG;ETF;SPDR S&P 600 Small Cap Growth E;SPDR S&P 600 Small Cap Growth E 
+111111;2222222222;VTV;ETF;Vanguard Value ETF;Vanguard Value ETF 
+111111;2222222222;VBR;ETF;Vanguard Small-Cap Value ETF;Vanguard Small-Cap Value ETF 
+111111;2222222222;VOOV;ETF;Vanguard S&P 500 Value ETF;Vanguard S&P 500 Value ETF 
+111111;2222222222;VOE;ETF;Vanguard Mid-Cap Value ETF;Vanguard Mid-Cap Value ETF 
+111111;2222222222;IVE;ETF;iShares S&P 500 Value ETF;iShares S&P 500 Value ETF 
+111111;2222222222;RPV;ETF;Invesco S&P 500 Pure Value ETF;Invesco S&P 500 Pure Value ETF 
+111111;2222222222;SCHV;ETF;Schwab U.S. Large-Cap Value ETF;Schwab U.S. Large-Cap Value ETF 
+111111;2222222222;IJS;ETF;iShares S&P SmallCap 600 Value;iShares S&P SmallCap 600 Value
+111111;2222222222;XSVM;ETF;Invesco S&P SmallCap Value with;Invesco S&P SmallCap Value with 
+111111;2222222222;AVUV;ETF;Avantis U.S. Small Cap Value ET;Avantis U.S. Small Cap Value ET 
+111111;2222222222;MGV;ETF;Vanguard Mega Cap Value ETF;Vanguard Mega Cap Value ETF 
+111111;2222222222;VLUE;ETF;iShares MSCI USA Value Factor E;iShares MSCI USA Value Factor E 
+111111;2222222222;IUSV;ETF;iShares Core S&P U.S. Value ETF;iShares Core S&P U.S. Value ETF 
+111111;2222222222;SLYV;ETF;SPDR S&P 600 Small Cap Value ET;SPDR S&P 600 Small Cap Value ET 
+111111;2222222222;IWS;ETF;iShares Russell Mid-cap Value E;iShares Russell Mid-cap Value E 
+111111;2222222222;IVOV;ETF;Vanguard S&P Mid-Cap 400 Value;Vanguard S&P Mid-Cap 400 Value 
+111111;2222222222;IJJ;ETF;iShares S&P Mid-Cap 400 Value E;iShares S&P Mid-Cap 400 Value E 
+111111;2222222222;EFV;ETF;iShares MSCI EAFE Value ETF;iShares MSCI EAFE Value ETF 
+111111;2222222222;SPVU;ETF;Invesco S&P 500 Enhanced Value;Invesco S&P 500 Enhanced Value 
+111111;2222222222;SVAL;ETF;iShares US Small Cap Value Fact;iShares US Small Cap Value Fact 
+111111;2222222222;FVAL;ETF;Fidelity Value Factor ETF;Fidelity Value Factor ETF 
+111111;2222222222;FBCV;ETF;Fidelity Blue Chip Value ETF;Fidelity Blue Chip Value ETF 
+111111;2222222222;VVGM.DE;ETF;VanEck Vectors Morningstar Wide;VanEck Vectors Morningstar Wide 
+111111;2222222222;GMVM.DE;ETF;VanEck Vectors Morningstar Wide;VanEck Vectors Morningstar Wide 
+111111;2222222222;FDL;ETF;First Trust Morningstar ETF;First Trust Morningstar ETF 
+111111;2222222222;IYLD;ETF;iShares Morningstar Multi-Asset;iShares Morningstar Multi-Asset 
+111111;2222222222;ILCG;ETF;iShares Morningstar Large-Cap G;iShares Morningstar Large-Cap G 
+111111;2222222222;IMCG;ETF;iShares Morningstar Mid-Cap Gro;iShares Morningstar Mid-Cap Gro 
+111111;2222222222;ISCG;ETF;iShares Morningstar Small-Cap G;iShares Morningstar Small-Cap G 
