@@ -1,0 +1,70 @@
+NAME;TICKER;TRUENAMES;;
+137;XDEW.DE;"Xtrackers (IE) Plc - Xtrackers S&amp;P 500 Equal Weight UCITS ETF 1C";ETF;sector
+0;DIA;SPDR Dow Jones Industrial Average ETF Trust;ETF;sector
+121;XDND.DE;Xtrackers (IE) Plc - Xtrackers MSCI North America High Dividend Yield UCITS ETF 1C;ETF;sector
+180;XDPD.DE;Xtrackers (IE) Public Limited Company - Xtrackers S&P 500 UCITS ETF;ETF;sector
+136;XDPE.DE;Xtrackers (IE) Public Limited Company - Xtrackers S&P 500 UCITS ETF;ETF;sector
+32;FXI;iShares Trust - iShares China Large-Cap ETF;ETF;sector
+33;GLD;SPDR Gold Shares;ETF;sector
+1;IBB;iShares Biotechnology ETF;ETF;sector
+2;IVE;iShares S&P 500 Value ETF;ETF;sector
+3;IVW;iShares S&P 500 Growth ETF;ETF;sector
+4;IWM;iShares Russell 2000 ETF;ETF;sector
+5;IYR;iShares U.S. Real Estate ETF;ETF;sector
+6;IYT;iShares Transportation Average ETF;ETF;sector
+7;IYZ;iShares U.S. Telecommunications ETF;ETF;sector
+8;KBE;SPDR S&P Bank ETF;ETF;sector
+523;SXRU.DE;iShares VII PLC - iShares Dow Jones Indust Avg ETF USD Acc;ETF;sector
+438;X020.DE;Lyxor MSCI USA (LUX) UCITS ETF;ETF;sector
+453;X022.DE;Lyxor S&P MidCap 400 UCITS ETF;ETF;sector
+454;X023.DE;"Lyxor S&amp;P SmallCap 600 UCITS ETF";ETF;sector
+521;SXRG.DE;iShares VII PLC - iShares MSCI USA Small Cap ETF USD Acc;ETF;sector
+167;XD9E.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA UCITS ETF;ETF;sector
+122;XD9U.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA UCITS ETF;ETF;sector
+639;QDVC.DE;iShares IV Public Limited Company - iShares Edge MSCI USA Size Factor UCITS ETF;ETF;sector
+663;QDVD.DE;iShares II plc - iShares MSCI USA Quality Dividend UCITS ETF;ETF;sector
+640;QDVI.DE;iShares Edge MSCI USA Value Factor UCITS ETF USD (Acc);ETF;sector
+651;QDVK.DE;"iShares S&amp;P 500 Consumer Discretionary Sector UCITS ETF USD (Acc)";ETF;sector
+9;KIE;SPDR S&P Insurance ETF;ETF;sector
+655;QDVE.DE;"iShares S&amp;P 500 Information Technology Sector UCITS ETF USD (Acc)";ETF;sector
+652;QDVF.DE;iShares V Public Limited Company - iShares S&P 500 Energy Sector UCITS ETF;ETF;sector
+654;QDVG.DE;iShares V Public Limited Company - iShares S&P 500 Health Care Sector UCITS ETF;ETF;sector
+653;QDVH.DE;"iShares S&amp;P 500 Financials Sector UCITS ETF USD (Acc)";ETF;sector
+36;LQD;iShares iBoxx $ Investment Grade Corporate Bond ETF;ETF;sector
+10;MDY;SPDR S&P MIDCAP 400 ETF Trust;ETF;sector
+11;MDYG;SPDR S&P 400 Mid Cap Growth ETF;ETF;sector
+12;MDYV;SPDR S&P 400 Mid Cap Value ETF;ETF;sector
+13;PPA;Invesco Aerospace & Defense ETF;ETF;sector
+14;QQQ;Invesco QQQ Trust;ETF;sector
+15;SLY;SPDR S&P 600 Small Cap ETF;ETF;sector
+16;SLYG;SPDR S&P 600 Small Cap Growth ETF;ETF;sector
+17;SLYV;SPDR S&P 600 Small Cap Value ETF;ETF;sector
+135;XRSM.DE;Xtrackers (IE) Public Limited Company - Xtrackers Russell Midcap UCITS ETF;ETF;sector
+534;SXRV.DE;iShares VII Public Limited Company -  iShares NASDAQ 100 UCITS ETF;ETF;sector
+18;SMH;VanEck Vectors Semiconductor ETF;ETF;sector
+19;SPY;SPDR S&P 500 ETF Trust;ETF;sector
+771;IS0D.DE;"iShares Oil &amp; Gas Exploration &amp; Production UCITS ETF USD (Acc)";ETF;sector
+798;IS0E.DE;iShares Gold Producers UCITS ETF USD (Acc);ETF;sector
+38;TIP;iShares TIPS Bond ETF;ETF;sector
+134;XRS2.DE;Xtrackers (IE) Plc - Xtrackers Russell 2000 UCITS ETF 1C;ETF;sector
+20;XLB;Materials Select Sector SPDR Fund;ETF;sector
+21;XLE;Energy Select Sector SPDR Fund;ETF;sector
+164;XUTC.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA Information Technology UCITS ETF;ETF;sector
+22;XLF;Financial Select Sector SPDR Fund;ETF;sector
+23;XLK;Technology Select Sector SPDR Fund;ETF;sector
+24;XLP;Consumer Staples Select Sector SPDR Fund;ETF;sector
+25;XLU;Utilities Select Sector SPDR Fund;ETF;sector
+26;XLV;Health Care Select Sector SPDR Fund;ETF;sector
+795;2B70.DE;iShares Nasdaq US Biotechnology UCITS ETF USD (Acc);ETF;sector
+688;2B7F.DE;"iShares Automation &amp; Robotics UCITS ETF USD (Dist)";ETF;sector
+27;XLY;Consumer Discretionary Select Sector SPDR Fund;ETF;sector
+162;XUEN.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA Energy UCITS ETF;ETF;sector
+163;XUFN.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA Financials UCITS ETF;ETF;sector
+159;XUHC.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA Health Care UCITS ETF;ETF;sector
+650;2B7A.DE;iShares V Public Limited Company - iShares S&P 500 Utilities Sector UCITS ETF;ETF;sector
+649;2B7B.DE;"iShares S&amp;P 500 Materials Sector UCITS ETF USD (Acc)";ETF;sector
+648;2B7C.DE;"iShares S&amp;P 500 Industrials Sector UCITS ETF USD (Acc)";ETF;sector
+647;2B7D.DE;"iShares S&amp;P 500 Consumer Staples Sector UCITS ETF USD (Acc)";ETF;sector
+160;XUCD.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA Consumer Discretionary UCITS ETF;ETF;sector
+161;XUCS.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI USA Consumer Staples UCITS ETF;ETF;sector
+223;MIVU.DE;Amundi Index Solutions - Amundi MSCI USA Minimum Volatility Factor UCITS ETF;ETF;sector

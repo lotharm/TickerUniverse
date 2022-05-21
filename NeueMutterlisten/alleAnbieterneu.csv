@@ -1,0 +1,963 @@
+;TICKER;TRUENAMES;industry;sector
+
+#################################################################################################### eurpa style
+209;10AI.DE;Amundi Index Solutions - Amundi Index MSCI Europe UCITS ETF DR EUR;ETF;sector
+281;AE50.DE;Amundi ETF Stoxx Europe 50 UCITS ETF;ETF;sector
+606;EUN0.DE;iShares Edge MSCI Europe Minimum Volatility UCITS ETF EUR (Acc);ETF;sector
+571;EUN1.DE;iShares STOXX Europe 50 UCITS ETF EUR (Dist);ETF;sector
+630;CEMQ.DE;iShares Edge MSCI Europe Quality Factor UCITS ETF EUR (Acc);ETF;sector
+629;CEMR.DE;iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc);ETF;sector
+632;CEMS.DE;iShares Edge MSCI Europe Value Factor UCITS ETF EUR (Acc);ETF;sector
+631;CEMT.DE;iShares Edge MSCI Europe Size Factor UCITS ETF EUR (Acc);ETF;sector
+249;CEUG.DE;Amundi Index Solutions - Amundi MSCI Europe UCITS ETF C EUR;ETF;sector
+248;AMEQ.DE;Amundi Index Solutions - Amundi MSCI Europe Quality Factor;ETF;sector
+387;C051.DE;Lyxor EURO STOXX Select Dividend 30 UCITS ETF;ETF;sector
+322;E960.DE;Lyxor 1 STOXX® Europe 600 UCITS ETF;ETF;sector
+321;E950.DE;Lyxor 1 EURO STOXX 50 UCITS ETF;ETF;sector
+21;DXSA.DE;Xtrackers - Euro Stoxx Select Dividend 30 UCITS ETF;ETF;sector
+19;DBXE.DE;Xtrackers - Euro Stoxx 50 UCITS ETF;ETF;sector
+43;D5BL.DE;Xtrackers - MSCI Europe Value UCITS ETF;ETF;sector
+79;DX2I.DE;Xtrackers - MSCI Europe Mid Cap UCITS ETF;ETF;sector
+80;DX2J.DE;Xtrackers - MSCI Europe Small Cap UCITS ETF;ETF;sector
+834;WTD7.DE;WisdomTree Europe SmallCap Dividend UCITS ETF - Acc;ETF;sector
+604;EXSC.DE;iShares STOXX Europe Large 200 UCITS ETF (DE);ETF;sector
+582;EXSD.DE;iShares STOXX Europe Mid 200 UCITS ETF (DE);ETF;sector
+540;EXSE.DE;iShares STOXX Europe Small 200 UCITS ETF (DE);ETF;sector
+666;EXV1.DE;iShares (DE) I - iShares STOXX Europe 600 Banks UCITS ETF (DE);ETF;sector
+679;EXV2.DE;iShares (DE) I - iShares STOXX Europe 600 Telecommunications UCITS ETF (DE);ETF;sector
+678;EXV3.DE;iShares STOXX Europe 600 Technology UCITS ETF (DE);ETF;sector
+671;EXV4.DE;iShares STOXX Europe 600 Health Care UCITS ETF (DE);ETF;sector
+665;EXV5.DE;iShares (DE) I - iShares STOXX Europe 600 Automobiles & Parts UCITS ETF (DE);ETF;sector
+573;EXV6.DE;iShares STOXX Europe 600 Basic Resources UCITS ETF (DE);ETF;sector
+541;EXSG.DE;iShares EURO STOXX Select Dividend 30 UCITS ETF (DE);ETF;sector
+605;EXSH.DE;iShares STOXX Europe Select Dividend 30 UCITS ETF (DE);ETF;sector
+549;IQQA.DE;iShares Euro Dividend UCITS ETF EUR (Dist);ETF;sector
+832;WTEE.DE;WisdomTree Europe Equity Income UCITS ETF;ETF;sector
+247;MJMT.DE;Amundi Index Solutions - Amundi MSCI Europe Momentum Factor UCITS ETF-C;ETF;sector
+245;MIVA.DE;Amundi Index Solutions - Amundi MSCI Europe Minimum Volatility Factor UCITS ETF;ETF;sector
+327;SELD.DE;Lyxor Index Fund - Lyxor STOXX Europe Select Dividend 30 UCITS ETF Dist;ETF;sector
+
+#########################  CHINA CHINA CHINA #################################################################    CHINA CHINA
+623;36BZ.DE;iShares MSCI China A UCITS ETF USD (Acc);ETF;sector
+
+
+###################################################################################################################  COMMODITY COMMODITY COMMODITY
+
+398;C090.DE;Lyxor Bloomberg Equal-weight Commodity ex-Agriculture UCITS ETF;ETF;sector
+188;DBZN.DE;Xtrackers Bloomberg Commodity Swap UCITS ETF 2C - EUR Hedged;ETF;sector
+
+383;C099.DE;Lyxor Bloomberg Equal-weight Commodity ex-Agriculture EUR hedged UCITS ETF;ETF;sector
+##################################################################################################################  europa sektoren
+
+
+342;6FIN.DE;MULTI-UNITS LUXEMBOURG - Lyxor STOXX Europe 600 Financial Services UCITS ETF 2;ETF;sector
+362;6TVL.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Travel &amp; Leisure UCITS ETF 2";ETF;sector
+261;AME6.DE;Amundi Index Solutions - Amundi Stoxx Europe 600;ETF;sector
+31;EZU;iShares MSCI Eurozone ETF;ETF;sector
+200;XSXE.DE;Xtrackers - Stoxx Europe 600 UCITS ETF;ETF;sector
+667;EXV7.DE;iShares (DE) I - iShares STOXX Europe 600 Chemicals UCITS ETF (DE);ETF;sector
+668;EXV8.DE;"iShares STOXX Europe 600 Construction &amp; Materials UCITS ETF (DE)";ETF;sector
+680;EXV9.DE;iShares (DE) I - iShares STOXX Europe 600 Travel & Leisure UCITS ETF (DE);ETF;sector
+311;18M3.DE;Amundi ETF MSCI Europe Banks UCITS ETF;ETF;sector
+313;18M6.DE;Amundi ETF MSCI Europe Healthcare UCITS ETF;ETF;sector
+312;AMEE.DE;Amundi ETF MSCI Europe Energy UCITS ETF;ETF;sector
+358;CSTA.DE;Lyxor STOXX Europe 600 Technology UCITS ETF Dis;ETF;sector
+338;CSTD.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Construction &amp; Materials UCITS ETF Inc";ETF;sector
+198;DXSC.DE;Xtrackers Stoxx Europe 600 Basic Resources Swap UCITS ETF 1C;ETF;sector
+199;DXSD.DE;Xtrackers - Stoxx Europe 600 Oil & Gas Swap UCITS ETF;ETF;sector
+47;DXSE.DE;Xtrackers - Stoxx Europe 600 Health Care Swap UCITS ETF;ETF;sector
+45;DXSF.DE;Xtrackers - Stoxx Europe 600 Banks Swap UCITS ETF;ETF;sector
+50;DXSG.DE;Xtrackers - Stoxx Europe 600 Telecommunications Swap UCITS ETF;ETF;sector
+49;DXSH.DE;Xtrackers - Stoxx Europe 600 Technology Swap UCITS ETF;ETF;sector
+51;DXSI.DE;Xtrackers - Stoxx Europe 600 Utilities Swap UCITS ETF;ETF;sector
+46;DXSK.DE;"Xtrackers Stoxx Europe 600 Food &amp; Beverage Swap UCITS ETF 1C";ETF;sector
+565;IQQS.DE;iShares EURO STOXX Small UCITS ETF EUR (Dist);ETF;sector
+48;DXSL.DE;Xtrackers Stoxx Europe 600 Industrial Goods Swap UCITS ETF 1C;ETF;sector
+14;D5BK.DE;Xtrackers FTSE Developed Europe Real Estate UCITS ETF 1C;ETF;sector
+775;EUNZ.DE;iShares STOXX Europe 50 UCITS ETF EUR (Dist);ETF;sector
+574;EXH1.DE;iShares (DE) I - iShares STOXX Europe 600 Oil & Gas UCITS ETF (DE);ETF;sector
+669;EXH2.DE;iShares (DE) I - iShares STOXX Europe 600 Financial Services UCITS ETF (DE);ETF;sector
+670;EXH3.DE;iShares (DE) I - iShares STOXX Europe 600 Food & Beverage UCITS ETF (DE);ETF;sector
+672;EXH4.DE;"iShares STOXX Europe 600 Industrial Goods &amp; Services UCITS ETF (DE)";ETF;sector
+673;EXH5.DE;iShares STOXX Europe 600 Insurance UCITS ETF (DE);ETF;sector
+674;EXH6.DE;iShares (DE) I - iShares STOXX Europe 600 Media UCITS ETF (DE);ETF;sector
+675;EXH7.DE;iShares (DE) I - iShares STOXX Europe 600 Personal & Household Goods UCITS ETF (DE);ETF;sector
+677;EXH8.DE;iShares STOXX Europe 600 Retail UCITS ETF (DE);ETF;sector
+681;EXH9.DE;iShares (DE) I - iShares STOXX Europe 600 Utilities UCITS ETF (DE);ETF;sector
+332;INDA.DE;MULTI-UNITS LUXEMBOURG - Lyxor STOXX Europe 600 Banks UCITS ETF 2;ETF;sector
+360;INDB.DE;MULTI-UNITS LUXEMBOURG - Lyxor STOXX Europe 600 Telecommunications UCITS ETF 2;ETF;sector
+346;INDU.DE;"Lyxor STOXX Europe 600 Industrial Goods &amp; Services UCITS ETF Dis";ETF;sector
+481;EABE.DE;"Lyxor Net Zero 2050 S&amp;P Europe Climate PAB (DR) UCITS ETF - Acc";ETF;sector
+343;LHTC.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Healthcare UCITS ETF Acc;ETF;sector
+345;LIGS.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Industrial Goods &amp; Services UCITS ETF Acc";ETF;sector
+347;LIRU.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Insurance UCITS ETF Acc;ETF;sector
+351;LOGS.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Oil & Gas UCITS ETF;ETF;sector
+353;LPHG.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Personal &amp; Household Goods UCITS ETF Acc";ETF;sector
+355;LRET.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Retail UCITS ETF Acc;ETF;sector
+359;LTCM.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Telecommunications UCITS ETF Acc;ETF;sector
+357;LTUG.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Technology UCITS ETF;ETF;sector
+524;SXRW.DE;iShares VII Public Limited Company - iShares FTSE 100 UCITS ETF;ETF;sector
+525;SXRY.DE;iShares VII Public Limited Company - iShares FTSE MIB UCITS ETF EUR (Acc);ETF;sector
+
+#####################################################################################################   DAX
+399;C001.DE;Lyxor Core DAX® (DR) UCITS ETF;ETF;sector
+400;C003.DE;Lyxor DivDAX® (DR) UCITS ETF;ETF;sector
+455;C005.DE;ComStage - SDAX® UCITS ETF;ETF;sector
+427;C006.DE;Lyxor F.A.Z. 100 Index (DR) UCITS ETF;ETF;sector
+435;C007.DE;Lyxor MDAX® (DR) UCITS ETF;ETF;sector
+320;E903.DE;Lyxor 1 DivDAX UCITS ETF (I);ETF;sector
+378;E905.DE;Lyxor 1 - SDAX UCITS ETF;ETF;sector
+377;E907.DE;Lyxor 1 - MDAX UCITS ETF;ETF;sector
+379;E908.DE;Lyxor 1 - TecDAX UCITS ETF;ETF;sector
+397;E909.DE;Lyxor 1 DAX 50 ESG UCITS ETF I;ETF;sector
+17;DBXD.DE;Xtrackers - DAX UCITS ETF;ETF;sectorv
+94;XDGM.DE;Xtrackers (IE) Public Limited Company - Xtrackers Germany Mittelstand & MidCap UCITS ETF;ETF;sector
+52;XDDX.DE;Xtrackers - DAX Income UCITS ETF;ETF;sector
+537;EXS1.DE;iShares Core DAX UCITS ETF (DE) EUR (Acc);ETF;sector
+817;EXS2.DE;iShares TecDAX UCITS ETF (DE);ETF;sector
+811;EXS3.DE;iShares MDAX UCITS ETF (DE);ETF;sector
+
+538;EXSB.DE;iShares DivDAX UCITS ETF (DE);ETF;sector
+
+###################################################################################################### world
+
+
+##################################################################################################################  world sektoren
+614;36BB.DE;iShares MSCI World Consumer Discretionary Sector UCITS ETF USD Inc;ETF;sector
+802;5MVW.DE;iShares MSCI World Energy Sector UCITS ETF USD Inc;ETF;sector
+22;DXSB.DE;Xtrackers - Stoxx Global Select Dividend 100 Swap UCITS ETF;ETF;sector
+803;CBUF.DE;iShares MSCI World Health Care Sector UCITS ETF USD Inc;ETF;sector
+689;IEVD.DE;iShares Electric Vehicles and Driving Technology UCITS ETF USD (Acc);ETF;sector
+131;XWTS.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Telecom Services UCITS ETF;ETF;sector
+125;XDW0.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Energy UCITS ETF;ETF;sector
+124;XDWC.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Consumer Discretionary UCITS ETF;ETF;sector
+123;XDWD.DE;Xtrackers (IE) Plc - Xtrackers MSCI World UCITS ETF 1C;ETF;sector
+126;XDWF.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Financials UCITS ETF;ETF;sector
+54;XDWH.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Health Care UCITS ETF;ETF;sector
+120;XDWI.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Industrials UCITS ETF;ETF;sector
+127;XDWL.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World UCITS ETF;ETF;sector
+130;XDWM.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Materials UCITS ETF;ETF;sector
+118;XDWS.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Consumer Staples UCITS ETF;ETF;sector
+129;XDWT.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Information Technology UCITS ETF;ETF;sector
+132;XDWU.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Utilities UCITS ETF;ETF;sector
+178;XDWY.DE;Xtrackers (IE) Plc - Xtrackers MSCI World High Dividend Yield UCITS ETF 1D;ETF;sector
+89;DBXW.DE;Xtrackers - MSCI World Swap UCITS ETF;ETF;sector
+
+#################################################################################################################   world themes
+599;2B76.DE;"iShares Automation &amp; Robotics UCITS ETF USD (Acc)";ETF;sector
+766;2B7J.DE;iShares MSCI World SRI UCITS ETF USD (Dist);ETF;sector
+767;2B7K.DE;iShares IV Public Limited Company - iShares MSCI World SRI UCITS ETF;ETF;sector
+439;LYPA.DE;Lyxor MSCI World Consumer Discretionary TR UCITS ETF - C-EUR;ETF;sector
+440;LYPB.DE;Multi Units Luxembourg - Lyxor MSCI World Consumer Staples TR UCITS ETF;ETF;sector
+778;MVEW.DE;Ishares VI Public Limited Company - iShares Edge MSCI World Minimum Volatility ESG UCITS ETF;ETF;sector
+244;MWSH.DE;Amundi Index Solutions - Amundi MSCI World SRI UCITS ETF DR Hedged EUR C;ETF;sector
+441;LYPC.DE;Multi Units Luxembourg - Lyxor MSCI World Energy TR UCITS ETF;ETF;sector
+443;LYPD.DE;Lyxor MSCI World Financials TR UCITS ETF - C-EUR;ETF;sector
+444;LYPE.DE;Lyxor MSCI World Health Care TR UCITS ETF - C-EUR;ETF;sector
+445;LYPF.DE;Multi Units Luxembourg - Lyxor MSCI World Industrials TR UCITS ETF;ETF;sector
+446;LYPG.DE;Multi Units Luxembourg - Lyxor MSCI World Information Technology TR UCITS ETF;ETF;sector
+447;LYPH.DE;Multi Units Luxembourg - Lyxor MSCI World Materials TR UCITS ETF;ETF;sector
+448;LYPI.DE;Lyxor MSCI World Telecommunication Services TR UCITS ETF - C-EUR;ETF;sector
+449;LYPQ.DE;Lyxor MSCI World Utilities TR UCITS ETF - C-EUR;ETF;sector
+804;AYEW.DE;iShares MSCI World Information Technology Sector UCITS ETF USD Inc;ETF;sector
+597;2B77.DE;iShares Ageing Population UCITS ETF USD (Acc);ETF;sector
+779;UEEH.DE;iShares Edge MSCI World Minimum Volatility UCITS ETF USD (Dist);ETF;sector
+616;2B77.DE;iShares Ageing Population UCITS ETF USD (Acc);ETF;sector
+618;2B78.DE;iShares Healthcare Innovation UCITS ETF USD (Acc);ETF;sector
+600;2B79.DE;iShares Digitalisation UCITS ETF USD (Acc);ETF;sector
+482;EABG.DE;"Lyxor Net Zero 2050 S&amp;P World Climate PAB (DR) UCITS ETF - Acc";ETF;sector
+212;10AH.DE;Amundi Index Solutions - Amundi Index MSCI World UCITS ETF DR EUR;ETF;sector
+369;ELCR.DE;Lyxor Index Fund - Lyxor Future Mobility (DR) UCITS ETF;ETF;sector
+711;IQQH.DE;iShares Global Clean Energy UCITS ETF USD (Dist);ETF;sector
+511;LESW.DE;Multi Units Luxembourg - Lyxor MSCI World ESG Leaders Extra (DR) UCITS ETF;ETF;sector
+179;XZWE.DE;Xtrackers (IE) Plc - Xtrackers MSCI World ESG UCITS ETF 2C - EUR Hedged;ETF;sector
+128;XWEH.DE;Xtrackers - MSCI World Swap UCITS ETF;ETF;sector
+1;XMAW.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI AC World UCITS ETF;ETF;sector
+493;VOOM.DE;Lyxor Global Gender Equality (DR) UCITS ETF - C-USD;ETF;sector
+841;W1TA.DE;WisdomTree Battery Solutions UCITS ETF - USD Acc;ETF;sector
+268;PABW.DE;Amundi Index Solutions - Amundi MSCI World Climate Paris Aligned Pab ETF DR USD (C);ETF;sector
+814;IS3Q.DE;iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc);ETF;sector
+813;IS3R.DE;iShares Edge MSCI World Momentum Factor UCITS ETF USD (Acc);ETF;sector
+816;IS3S.DE;iShares Edge MSCI World Value Factor UCITS ETF USD (Acc);ETF;sector
+815;IS3T.DE;iShares Edge MSCI World Size Factor UCITS ETF USD (Acc);ETF;sector
+642;IUSN.DE;iShares MSCI World Small Cap UCITS ETF USD (Acc);ETF;sector
+733;IUSN.DE;iShares MSCI World Small Cap UCITS ETF USD (Acc);ETF;sector
+
+
+819;W1TB.DE;WisdomTree Cybersecurity UCITS ETF USD Acc;ETF;sector
+257;WDFI.DE;Amundi Index Solutions - Amundi MSCI World Financials UCITS ETF;ETF;sector
+256;WDNR.DE;Amundi Index Solutions - Amundi MSCI World Energy UCITS ETF;ETF;sector
+59;XDEB.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Minimum Volatility UCITS ETF;ETF;sector
+60;XDEM.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Momentum UCITS ETF;ETF;sector
+61;XDEQ.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Quality UCITS ETF;ETF;sector
+62;XDEV.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI World Value UCITS ETF;ETF;sector
+824;WTEJ.DE;WisdomTree Issuer ICAV - WisdomTree Cloud Computing UCITS ETF;ETF;sector
+
+
+#########################################################################################################     ESG
+751;EDMW.DE;iShares MSCI World ESG Enhanced UCITS ETF USD Acc;ETF;sector
+794;EMND.DE;iShares MSCI World ESG Enhanced UCITS ETF USD Inc;ETF;sector
+790;EMNE.DE;iShares IV PLC - iShares MSCI EMU ESG Enhanced UCITS ETF;ETF;sector
+791;EMNJ.DE;iShares MSCI Japan ESG Enhanced UCITS ETF USD Inc;ETF;sector
+747;EMNU.DE;iShares MSCI Europe ESG Enhanced UCITS ETF EUR Inc;ETF;sector
+744;EDM2.DE;iShares MSCI EM ESG Enhanced UCITS ETF USD Acc;ETF;sector
+745;EDM4.DE;iShares MSCI EMU ESG Enhanced UCITS ETF EUR Acc;ETF;sector
+746;EDM6.DE;iShares MSCI Europe ESG Enhanced UCITS ETF EUR Acc;ETF;sector
+748;EDMJ.DE;iShares MSCI Japan ESG Enhanced UCITS ETF USD Acc;ETF;sector
+749;EDMU.DE;iShares MSCI USA ESG Enhanced UCITS ETF USD Acc;ETF;sector
+507;LESE.DE;Lyxor MSCI EMU ESG Leaders Extra (DR) UCITS ETF Acc;ETF;sector
+506;LESG.DE;Lyxor Msci EM Esg Leaders Extra UCITS ETF Acc;ETF;sector
+510;LESU.DE;Multi Units Luxembourg - Lyxor MSCI USA ESG Leaders Extra (DR) UCITS ETF;ETF;sector
+173;XZMJ.DE;Xtrackers Ie PLC - Xtrackers Esg Msci Japan UCITS ETF;ETF;sector
+174;XZMU.DE;Xtrackers IE PLC - Xtrackers ESG MSCI USA UCITS ETF;ETF;sector
+175;XZW0.DE;Xtrackers (IE) Plc - Xtrackers ESG MSCI World UCITS ETF;ETF;sector
+483;ZPA5.DE;"Lyxor Net Zero 2050 S&amp;P 500 Climate PAB (DR) UCITS ETF - Acc";ETF;sector
+480;ZPAB.DE;"Lyxor S&amp;P Eurozone Paris-Aligned Climate (EU PAB) (DR) UCITS ETF - Acc";ETF;sector
+172;XZEU.DE;Xtrackers (IE) Plc - Xtrackers MSCI Europe ESG UCITS ETF 1C;ETF;sector
+192;XZEZ.DE;Xtrackers MSCI EMU ESG UCITS ETF;ETF;sector
+69;XQUA.DE;Xtrackers (IE) plc - Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF;ETF;sector
+168;XQUE.DE;Xtrackers (IE) plc - Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS ETF;ETF;sector
+502;XCO2.DE;Lyxor Green Bond Esg Screened (DR) UCITS ETF;ETF;sector
+706;UEEF.DE;iShares $ High Yield Corp Bond ESG UCITS ETF EUR Hedged (Acc);ETF;sector
+141;XB4F.DE;Xtrackers II - ESG EUR Corporate Bond UCITS ETF;ETF;sector
+761;SODJ.DE;iShares IV Public Limited Company - iShares MSCI Japan ESG Screened UCITS ETF;ETF;sector
+760;SGAJ.DE;iShares IV Public Limited Company - iShares MSCI Japan ESG Screened UCITS ETF;ETF;sector
+762;SGAS.DE;iShares IV Public Limited Company - iShares MSCI USA ESG Screened UCITS ETF;ETF;sector
+755;SLMA.DE;iShares IV Public Limited Company - iShares MSCI EMU ESG Screened UCITS ETF;ETF;sector
+756;SLMB.DE;iShares IV Public Limited Company - iShares MSCI EMU ESG Screened UCITS ETF;ETF;sector
+757;SLMC.DE;iShares MSCI Europe ESG Screened UCITS ETF EUR (Acc);ETF;sector
+758;SLMD.DE;iShares MSCI Europe ESG Screened UCITS ETF EUR (Dist);ETF;sector
+717;SLMG.DE;iShares J.P. Morgan ESG $ EM Bond UCITS ETF EUR Hedged (Acc);ETF;sector
+763;SLUS.DE;iShares IV Public Limited Company - iShares MSCI USA ESG Screened UCITS ETF;ETF;sector
+765;S6DW.DE;iShares IV Public Limited Company - iShares MSCI World ESG Screened UCITS ETF;ETF;sector
+218;SADE.DE;Amundi Index Solutions - Amundi MSCI Europe ESG Leaders Select UCITS ETF DR Cap;ETF;sector
+315;SADH.DE;Amundi Index Solutions - Amundi MSCI USA ESG Leaders Select ETF DR Hedged;ETF;sector
+219;SADM.DE;Amundi Index Solutions - Amundi MSCI Emerging ESG Leaders UCITS ETF DR;ETF;sector
+222;SADU.DE;Amundi Index Solutions - Amundi MSCI USA ESG Leaders Select Ucits ETF DR Cap;ETF;sector
+225;SADW.DE;Amundi Index Solutions - Amundi MSCI World ESG Leaders Select Ucits ETF DR Cap;ETF;sector
+221;SBIE.DE;Amundi Index Solutions - Amundi Msci Europe Esg Universal Select;ETF;sector
+226;SBIU.DE;Amundi Index Solutions - Amundi Msci Usa Esg Universal Select;ETF;sector
+224;SBIW.DE;Amundi Index Solutions - Amundi MSCI World ESG Universal Select Ucits ETF DR Cap;ETF;sector
+220;SBIZ.DE;Amundi Index Solutions - Amundi MSCI EMU ESG Universal Select Ucits ETF DR Cap;ETF;sector
+730;SECA.DE;"iShares &#226;&#130;&#172; Govt Bond Climate UCITS ETF EUR (Acc)";ETF;sector
+731;SECD.DE;"iShares &#226;&#130;&#172; Govt Bond Climate UCITS ETF EUR (Dist)";ETF;sector
+
+###########################################################################################################          Emerging markets
+271;540G.DE;Amundi Index Solutions - Amundi MSCI Eastern Europe Ex Russia UCITS ETF-C EUR;ETF;sector
+28;EEM;iShares MSCI Emerging Markets ETF;ETF;sector
+29;EFA;iShares MSCI EAFE ETF;ETF;sector
+478;EMXC.DE;Multi Units Luxembourg - Lyxor Msci Emerging Markets EX China Ucits ETF;ETF;sector
+
+177;XMME.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI Emerging Markets UCITS ETF;ETF;sector
+
+215;AEMD.DE;Amundi Index Solutions - Amundi Index MSCI Emerging Markets;ETF;sector
+85;DXS6.DE;Xtrackers MSCI Pacific ex Japan UCITS ETF 1C;ETF;sector
+67;DXS7.DE;Xtrackers - FTSE Vietnam Swap UCITS ETF;ETF;sector
+250;18MK.DE;Amundi Index Solutions - Amundi MSCI India UCITS ETF-C EUR;ETF;sector
+275;18MM.DE;Amundi Index MSCI Pacific ex Japan SRI - UCITS ETF DR - EUR (C);ETF;sector
+270;AMEI.DE;Amundi Index Solutions - Amundi Index MSCI Emerging Markets SRI UCITS ETF DR C;ETF;sector
+240;AMEM.DE;Amundi Index Solutions - Amundi MSCI Emerging Markets UCITS ETF-C EUR;ETF;sector
+4;DBX1.DE;Xtrackers - MSCI Emerging Markets Swap UCITS ETF;ETF;sector
+37;DBX2.DE;Xtrackers MSCI EM Asia Swap UCITS ETF 1C;ETF;sector
+
+527;CEBL.DE;iShares VII Public Limited Company - iShares MSCI EM Asia UCITS ETF;ETF;sector
+627;CEBP.DE;iShares VII PLC - iShares MSCI EMU USD Hedged ETF Acc;ETF;sector
+769;CEMG.DE;iShares MSCI EM Consumer Growth UCITS ETF USD (Acc);ETF;sector
+753;AYEM.DE;iShares MSCI EM IMI ESG Screened UCITS ETF USD (Acc);ETF;sector
+694;AYEP.DE;iShares Asia Property Yield UCITS ETF USD (Acc);ETF;sector
+768;EUNY.DE;iShares EM Dividend UCITS ETF USD (Dist);ETF;sector
+171;XZEM.DE;Xtrackers Ie PLC - Xtrackers Esg Msci Emerging Markets UCITS ETF;ETF;sector
+#############################################################################################################   Länder 
+117;XDNE.DE;Xtrackers (IE) Public Limited Company - Xtrackers JPX-Nikkei 400 UCITS ETF;ETF;sector
+116;XDNY.DE;Xtrackers (IE) Public Limited Company - Xtrackers JPX-Nikkei 400 UCITS ETF;ETF;sector
+535;SXRZ.DE;iShares VII PLC - iShares Nikkei 225 ETF JPY Acc;ETF;sector
+76;DBX3.DE;Xtrackers - MSCI EM Latin America Swap UCITS ETF;ETF;sector
+92;DBX4.DE;Xtrackers - MSCI EM Europe, Middle East & Africa Swap UCITS ETF;ETF;sector
+87;DBX5.DE;Xtrackers - MSCI Taiwan UCITS ETF;ETF;sector
+74;DBX6.DE;Xtrackers - MSCI Brazil UCITS ETF;ETF;sector
+30;EWJ;iShares MSCI Japan ETF;ETF;sector
+
+432;LYMD.DE;Multi Units France - Lyxor MSCI India UCITS ETF;ETF;sector
+418;LYMH.DE;Multi Units France - Lyxor MSCI Greece UCITS ETF;ETF;sector
+326;X014.DE;Lyxor MSCI Pacific UCITS ETF;ETF;sector
+26;DBX7.DE;Xtrackers - Nifty 50 Swap UCITS ETF;ETF;sector
+83;DBX8.DE;Xtrackers - MSCI Korea UCITS ETF;ETF;sector
+23;DBX9.DE;Xtrackers - FTSE China 50 UCITS ETF;ETF;sector
+16;D5BH.DE;Xtrackers - MSCI Canada UCITS ETF;ETF;sector
+526;SXR2.DE;iShares VII Public Limited Company - iShares MSCI Canada UCITS ETF;ETF;sector
+197;XESD.DE;Xtrackers - Spain UCITS ETF;ETF;sector
+196;XESP.DE;Xtrackers Spain UCITS ETF 1C;ETF;sector
+36;D5BI.DE;Xtrackers - MSCI Mexico UCITS ETF;ETF;sector
+401;C030.DE;Lyxor Dow Jones Switzerland Titans 30TM (DR) UCITS ETF;ETF;sector
+531;CEBB.DE;iShares VII PLC - iShares MSCI Russia ADR/GDR ETF USD Acc;ETF;sector
+530;CEBG.DE;iShares VII PLC - iShares MSCI Mexico Capped ETF USD Acc;ETF;sector
+24;DBXJ.DE;Xtrackers - MSCI Japan UCITS ETF;ETF;sector
+166;XDN0.DE;Xtrackers (IE) Plc - Xtrackers MSCI Nordic UCITS ETF 1D;ETF;sector
+734;IBC6.DE;iShares MSCI Australia UCITS ETF USD (Acc);ETF;sector
+556;IQQB.DE;iShares MSCI Brazil UCITS ETF USD (Dist);ETF;sector
+557;IQQJ.DE;iShares MSCI Japan UCITS ETF USD (Dist);ETF;sector
+558;IQQK.DE;iShares MSCI Korea UCITS ETF USD (Dist);ETF;sector
+560;IQQT.DE;iShares Public Limited Company - iShares MSCI Taiwan UCITS ETF;ETF;sector
+509;LRUS.DE;Lyxor MSCI Russia UCITS ETF Acc;ETF;sector
+193;XNKY.DE;Xtrackers Nikkei 225 UCITS ETF 1C EUR;ETF;sector
+7;XPQP.DE;Xtrackers - MSCI Philippines UCITS ETF;ETF;sector
+5;XMK9.DE;Xtrackers MSCI Japan UCITS ETF 4C EUR Hedged;ETF;sector
+42;XMKA.DE;Xtrackers - MSCI Africa Top 50 Swap UCITS ETF;ETF;sector
+95;XCS2.DE;Xtrackers II Australia Government Bond UCITS ETF 1C;ETF;sector
+84;XCS3.DE;Xtrackers - MSCI Malaysia UCITS ETF;ETF;sector
+88;XCS4.DE;Xtrackers - MSCI Thailand UCITS ETF;ETF;sector
+82;XCS5.DE;Xtrackers - MSCI India Swap UCITS ETF;ETF;sector
+75;XCS6.DE;Xtrackers - MSCI China UCITS ETF;ETF;sector
+508;RUSL.DE;Lyxor MSCI Russia UCITS ETF Dist;ETF;sector
+
+#############################################################################################################   China
+389;C024.DE;Lyxor FTSE China A50 UCITS ETF;ETF;sector
+547;IQQC.DE;iShares China Large Cap UCITS ETF USD (Dist);ETF;sector
+
+
+###################################### ##################################################################   bonds
+201;XGLU.DE;Xtrackers II - Eurozone Government Bond UCITS ETF;ETF;sector
+109;XJSE.DE;Xtrackers II - Japan Government Bond UCITS ETF;ETF;sector
+104;XLIQ.DE;Xtrackers II - EUR Covered Bond Swap UCITS ETF;ETF;sector
+100;XGVD.DE;Xtrackers II Global Government Bond UCITS ETF 1D - EUR Hedged;ETF;sector
+103;XHY1.DE;Xtrackers II - EUR High Yield Corporate Bond 1-3 Swap UCITS ETF;ETF;sector
+158;XHYA.DE;Xtrackers II - EUR High Yield Corporate Bond UCITS ETF;ETF;sector
+102;XHYG.DE;Xtrackers II - EUR High Yield Corporate Bond UCITS ETF;ETF;sector
+115;XBAI.DE;Xtrackers II - Eurozone AAA Government Bond Swap UCITS ETF;ETF;sector
+797;IS0Y.DE;iShares V Public Limited Company - iShares Euro Corporate Bond Interest Rate Hedged UCITS ETF;ETF;sector
+781;IS0Z.DE;iShares VI Public Limited Company - iShares Global AAA-AA Government Bond UCITS ETF;ETF;sector
+152;XBAT.DE;Xtrackers II - Eurozone AAA Government Bond Swap UCITS ETF;ETF;sector
+106;XBCD.DE;Xtrackers II iBoxx Germany Covered Bond Swap UCITS ETF 1D;ETF;sector
+133;XBO2.DE;Xtrackers II Italy Government Bond 0-1 Swap UCITS ETF 1C;ETF;sector
+291;18MW.DE;Amundi ETF Govt Bond EuroMTS Broad Investment Grade 10-15 UCITS ETF;ETF;sector
+290;18MX.DE;Amundi ETF Govt Bond EuroMTS Broad Investment Grade 1-3 UCITS ETF DR;ETF;sector
+292;18MY.DE;Amundi ETF Govt Bond EuroMTS Broad Investment Grade 3-5 UCITS ETF DR;ETF;sector
+293;18MZ.DE;Amundi ETF Govt Bond EuroMTS Broad Investment Grade 5-7 UCITS ETF DR C;ETF;sector
+294;18M0.DE;Amundi ETF Govt Bond EuroMTS Broad Investment Grade 7-10 UCITS ETF;ETF;sector
+
+
+458;UINE.DE;MULTI-UNITS LUXEMBOURG - Lyxor Inverse US$ 10Y Inflation Expectations UCITS ETF - Acc-USD;ETF;sector
+393;UINF.DE;Multi Units Luxembourg - Lyxor US$ 10Y Inflation Breakeven UCITS ETF;ETF;sector
+
+593;UEEG.DE;iShares $ Development Bank Bonds UCITS ETF EUR Hedged (Acc);ETF;sector
+34;AGG;iShares Core U.S. Aggregate Bond ETF;ETF;sector
+723;EUNU.DE;iShares III Public Limited Company - iShares Global Aggregate Bond UCITS ETF;ETF;sector
+609;EUNW.DE;iShares Public Limited Company - iShares Euro High Yield Corp Bond UCITS ETF;ETF;sector
+721;EUNX.DE;iShares US Aggregate Bond UCITS ETF USD (Dist);ETF;sector
+713;IS02.DE;iShares J.P. Morgan $ EM Bond UCITS ETF USD (Acc);ETF;sector
+661;IS04.DE;iShares $ Treasury Bond 20+yr UCITS ETF USD (Dist);ETF;sector
+829;WTDP.DE;WisdomTree EUR Aggregate Bond Enhanced Yield UCITS ETF - EUR;ETF;sector
+828;WTDQ.DE;WisdomTree EUR Aggregate Bond Enhanced Yield UCITS ETF - EUR Acc;ETF;sector
+830;WTDR.DE;WisdomTree EUR Government Bond Enhanced Yield UCITS ETF - EUR;ETF;sector
+831;WTDS.DE;WisdomTree EUR Government Bond Enhanced Yield UCITS ETF - EUR Acc;ETF;sector
+491;LYQ1.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond (DR) UCITS ETF - Acc;ETF;sector
+489;LYQ2.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 1-3Y (DR) UCITS ETF - Acc;ETF;sector
+490;LYQ3.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 3-5Y (DR) UCITS ETF - Acc;ETF;sector
+412;LYXA.DE;MULTI-UNITS LUXEMBOURG - Lyxor EuroMTS Highest Rated Macro-Weighted Govt Bond (DR) UCITS ETF - Acc;ETF;sector
+410;LYXC.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 5-7Y (DR) UCITS ETF - Acc;ETF;sector
+411;LYXD.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 7-10Y (DR) UCITS ETF - Acc;ETF;sector
+409;LYXF.DE;Multi Units Luxembourg - Lyxor Euro Government Bond 15+Y (DR) UCITS ETF;ETF;sector
+584;EXHB.DE;iShares eb.rexx Government Germany 1.5-2.5yr UCITS ETF (DE);ETF;sector
+586;EXHC.DE;iShares eb.rexx Government Germany 2.5-5.5yr UCITS ETF (DE);ETF;sector
+587;EXHD.DE;iShares eb.rexx Government Germany 5.5-10.5yr UCITS ETF (DE);ETF;sector
+40;DBZB.DE;Xtrackers II - Global Government Bond UCITS ETF;ETF;sector
+494;LYX7.DE;Lyxor US Treasury 7-10Y (DR) UCITS ETF - Dist;ETF;sector
+191;XUEM.DE;Xtrackers II - USD Emerging Markets Bond UCITS ETF;ETF;sector
+71;XUTD.DE;Xtrackers II - US Treasuries UCITS ETF;ETF;sector
+15;XUTE.DE;Xtrackers II US Treasuries UCITS ETF 2D - EUR Hedged;ETF;sector
+183;XUHY.DE;Xtrackers (IE) Plc - Xtrackers USD High Yield Corporate Bond UCITS ETF 1D;ETF;sector
+289;18M1.DE;Amundi ETF Govies 0-6 Months EuroMTS Investment Grade UCITS ETF DR;ETF;sector
+35;IEF;iShares 7-10 Year Treasury Bond ETF;ETF;sector
+151;DBXB.DE;Xtrackers II Eurozone Government Bond 7-10 UCITS ETF 1C;ETF;sector
+787;CBUE.DE;iShares $ Treasury Bond 3-7yr UCITS ETF EUR Hedged (Dist);ETF;sector
+37;SHY;iShares 1-3 Year Treasury Bond ETF;ETF;sector
+564;2B7S.DE;iShares $ Treasury Bond 1-3yr UCITS ETF EUR Hedged (Acc);ETF;sector
+716;36B1.DE;iShares J.P. Morgan ESG $ EM Bond UCITS ETF USD (Dist);ETF;sector
+685;36B7.DE;iShares Global Corp Bond UCITS ETF EUR Hedged (Dist);ETF;sector
+592;36BA.DE;iShares $ Corp Bond ESG UCITS ETF EUR Hedged Inc;ETF;sector
+229;AHYE.DE;Amundi Index Solutions - Amundi EURO High Yield Liquid Bond IBOXX UCITS ETF-C;ETF;sector
+72;ALQD.DE;Xtrackers II - USD Asia ex Japan Corporate Bond UCITS ETF;ETF;sectFor
+715;3SUD.DE;iShares J.P. Morgan $ EM Bond UCITS ETF EUR Hedged (Acc);ETF;sector
+620;IBCI.DE;"iShares &#226;&#130;&#172; Inflation Linked Govt Bond UCITS ETF EUR (Acc)";ETF;sector
+693;IBCL.DE;"iShares &#226;&#130;&#172; Govt Bond 15-30yr UCITS ETF EUR (Dist)";ETF;sector
+709;IBCM.DE;"iShares &#226;&#130;&#172; Govt Bond 7-10yr UCITS ETF EUR (Dist)";ETF;sector
+710;IBCN.DE;"iShares &#226;&#130;&#172; Govt Bond 3-5yr UCITS ETF EUR (Dist)";ETF;sector
+548;IBCS.DE;"iShares &#226;&#130;&#172; Corp Bond Large Cap UCITS ETF EUR (Dist)";ETF;sector
+485;EGV3.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 1-3Y (DR) UCITS ETF 2;ETF;sector
+468;EGV5.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 3-5Y (DR) UCITS ETF 2;ETF;sector
+487;EGV7.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 5-7Y (DR) UCITS ETF 2;ETF;sector
+382;5X62.DE;Lyxor Bund Future Daily (-1x) Inverse UCITS ETF;ETF;sector
+148;DBXF.DE;Xtrackers II - Eurozone Government Bond 15-30 UCITS ETF;ETF;sector
+149;DBXG.DE;Xtrackers II - Eurozone Government Bond 25+ UCITS ETF;ETF;sector
+145;DBXH.DE;Xtrackers II - Global Inflation-Linked Bond UCITS ETF;ETF;sector
+53;DBXN.DE;Xtrackers II - Eurozone Government Bond UCITS ETF;ETF;sector
+147;DBXP.DE;Xtrackers II - Eurozone Government Bond 1-3 UCITS ETF;ETF;sector
+99;XG7S.DE;Xtrackers II - Global Government Bond UCITS ETF;ETF;sector
+108;XGII.DE;Xtrackers II - Global Inflation-Linked Bond UCITS ETF;ETF;sector
+107;XGIU.DE;Xtrackers II - Global Inflation-Linked Bond UCITS ETF;ETF;sector
+3;DBXQ.DE;Xtrackers II - Eurozone Government Bond 3-5 UCITS ETF;ETF;sector
+150;DBXR.DE;Xtrackers II - Eurozone Government Bond 5-7 UCITS ETF;ETF;sector
+144;D5BB.DE;Xtrackers II - Germany Government Bond UCITS ETF;ETF;sector
+142;D5BC.DE;Xtrackers II Germany Government Bond 1-3 UCITS ETF;ETF;sector
+156;D5BE.DE;Xtrackers II US Treasuries 1-3 UCITS ETF 1D;ETF;sector
+34;D5BG.DE;Xtrackers II - EUR Corporate Bond UCITS ETF;ETF;sector
+146;DBXK.DE;Xtrackers II - Eurozone Inflation-Linked Bond UCITS ETF;ETF;sector
+726;EUN4.DE;"iShares &#226;&#130;&#172; Aggregate Bond UCITS ETF EUR (Dist)";ETF;sector
+728;EUN6.DE;"iShares &#226;&#130;&#172; Govt Bond 0-1yr UCITS ETF EUR (Dist)";ETF;sector
+729;EUN9.DE;"iShares &#226;&#130;&#172; Govt Bond 5-7yr UCITS ETF EUR (Dist)";ETF;sector
+486;E15G.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 15+Y (DR) UCITS ETF 2;ETF;sector
+469;E15H.DE;Lyxor Core Euro Government Inflation-Linked Bond (DR) UCITS ETF 2;ETF;sector
+589;EXHA.DE;iShares eb.rexx Government Germany UCITS ETF (DE);ETF;sector
+457;TIUP.DE;Multi Units Luxembourg - Lyxor Core US TIPS (DR) UCITS ETF;ETF;sector
+112;X03B.DE;Xtrackers II - Eurozone Government Bond 1-3 UCITS ETF;ETF;sector
+113;X03C.DE;Xtrackers II - Eurozone Government Bond 3-5 UCITS ETF;ETF;sector
+114;X03F.DE;Xtrackers II Eurozone Government Bond UCITS ETF 1D EUR;ETF;sector
+105;X03G.DE;Xtrackers II Germany Government Bond UCITS ETF 1C;ETF;sector
+182;XT01.DE;Xtrackers (IE) Plc - Xtrackers US Treasuries Ultrashort Bond UCITS ETF 1C;ETF;sector
+
+621;IBC7.DE;iShares Fallen Angels High Yield Corporate Bond UCITS ETF EUR Hedged (Dist);ETF;sector
+554;IBC9.DE;iShares Global High Yield Corp Bond UCITS ETF USD (Dist);ETF;sector
+550;IBCA.DE;"iShares &#226;&#130;&#172; Govt Bond 1-3yr UCITS ETF EUR (Dist)";ETF;sector
+683;IBCC.DE;Ishares PLC - Ishares Treasury Bond 0-1 year UCITS ETF;ETF;sector
+544;IBCD.DE;iShares $ Corp Bond UCITS ETF USD (Dist);ETF;sector
+
+70;XYP1.DE;Xtrackers II - iBoxx Eurozone Government Bond Yield Plus 1-3 UCITS ETF;ETF;sector
+111;XYPD.DE;Xtrackers II iBoxx Eurozone Government Bond Yield Plus UCITS ETF 1D;ETF;sector
+170;XZBE.DE;Xtrackers (IE) Plc - Xtrackers ESG USD Corporate Bond UCITS ETF 2C - EUR hedged;ETF;sector
+169;XZBU.DE;Xtrackers (IE) Plc - Xtrackers ESG USD Corporate Bond UCITS ETF 1C;ETF;sector
+184;XZE5.DE;Xtrackers II ESG EUR Corporate Bond Short Duration UCITS ETF 1 EUR Acc;ETF;sector
+
+
+###################################################################################################################  Schrott
+
+
+
+
+
+
+
+
+801;3SUE.DE;iShares V Public Limited Company - iShares MSCI World Consumer Staples UCITS ETF;ETF;sector
+750;3SUR.DE;iShares MSCI USA SRI UCITS ETF EUR Hedged (Dist);ETF;sector
+
+298;540H.DE;Amundi ETF MSCI Europe Ex EMU UCITS ETF;ETF;sector
+254;540J.DE;Amundi Index Solutions - Amundi MSCI Switzerland;ETF;sector
+314;540K.DE;Amundi ETF MSCI UK UCITS ETF;ETF;sector
+742;5MVL.DE;IShares IV Public Limited Company - iShares Edge MSCI EM Value Factor UCITS ETF;ETF;sector
+
+
+251;6AQQ.DE;Amundi Index Solutions - Amundi Nasdaq-100 ETF-C EUR;ETF;sector
+
+
+204;AFIN.DE;Amundi Index Solutions - Amundi Euro Corporate Financials iBoxx UCITS ETF;ETF;sector
+101;AH50.DE;Xtrackers - Harvest FTSE China A-H 50 UCITS ETF;ETF;sector
+
+
+246;AMEA.DE;Amundi Index Solutions - Amundi MSCI EM Asia;ETF;sector
+260;AMEC.DE;Amundi Index Solutions - Amundi Smart City UCITS ETF-C EUR;ETF;sector
+278;AMED.DE;Amundi MSCI EMU ESG Leaders Select UCITS ETF DR EUR (C);ETF;sector
+
+
+
+216;AUM5.DE;"Amundi Index Solutions - Amundi S&amp;P 500 UCITS ETF C EUR";ETF;sector
+
+280;B500.DE;"Amundi Index Solutions - Amundi S&amp;P 500 Buyback ETF-C EUR";ETF;sector
+
+
+456;C029.DE;Lyxor SPI® UCITS ETF;ETF;sector
+323;C010.DE;Lyxor Dow Jones Industrial Average (LUX) UCITS ETF;ETF;sector
+450;C020.DE;Lyxor Nikkei 225® UCITS ETF;ETF;sector
+
+
+
+
+
+350;C071.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Media UCITS ETF Inc;ETF;sector
+
+514;C101.DE;ComStage FED Funds Effective Rate Index UCITS ETF;ETF;sector
+236;CB3G.DE;Amundi Index Solutions - Amundi Govt Bond Euromts Broad Investment Grade UCITS ETF-C;ETF;sector
+
+428;CD91.DE;Lyxor NYSE Arca Gold BUGS (DR) UCITS ETF;ETF;sector
+
+253;CN1G.DE;Amundi Index Solutions - Amundi MSCI Nordic UCITS ETF-C;ETF;sector
+394;CNAA.DE;Lyxor Hwabao WP MSCI China A (DR) UCITS ETF Acc;ETF;sector
+
+515;D100.DE;MULTI-UNITS LUXEMBOURG - Lyxor FTSE 100 UCITS ETF - Inc;ETF;sector
+97;D3V3.DE;Xtrackers (IE) Plc - Xtrackers EUR Credit 12.5 Swap UCITS ETF 1C;ETF;sector
+
+
+
+90;D5BM.DE;"Xtrackers S&amp;P 500 Swap UCITS ETF 1C";ETF;sector
+11;DBX0.DE;Xtrackers - Portfolio UCITS ETF;ETF;sector
+
+
+
+
+
+
+
+66;DBXI.DE;Xtrackers - FTSE MIB UCITS ETF;ETF;sector
+
+
+153;DBXM.DE;Xtrackers II - iTraxx Crossover Swap UCITS ETF;ETF;sector
+
+138;DBXS.DE;Xtrackers - Switzerland UCITS ETF;ETF;sector
+139;DBXT.DE;Xtrackers II - EUR Cash Swap UCITS ETF;ETF;sector
+25;DBXU.DE;Xtrackers - MSCI USA Swap UCITS ETF;ETF;sector
+86;DBXV.DE;Xtrackers - MSCI Russia Capped Swap UCITS ETF;ETF;sector
+64;DBXX.DE;Xtrackers FTSE 100 Income UCITS ETF 1D;ETF;sector
+30;DBXY.DE;Xtrackers - FTSE 250 UCITS ETF;ETF;sector
+31;DBXZ.DE;Xtrackers - FTSE All-Share UCITS ETF;ETF;sector
+237;DE5A.DE;Amundi Index Solutions - Amundi Govt Bond Highest Rated Euromts Investment Grade Ucits ETF EUR C;ETF;sector
+263;DECD.DE;Amundi DAX 50 ESG UCITS ETF DR (C);ETF;sector
+207;DECR.DE;Amundi Index Solutions - Amundi Index Euro Corporate SRI UCITS ETF DR EUR;ETF;sector
+330;DFOA.DE;"Lyxor STOXX Europe 600 Automobiles &amp; Parts UCITS ETF Dis";ETF;sector
+368;DFOB.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 25+Y (DR) UCITS ETF 2;ETF;sector
+340;DFOP.DE;"Lyxor STOXX Europe 600 Food &amp; Beverage UCITS ETF Dis";ETF;sector
+473;DJAD.DE;Lyxor US Treasury 10+Y (DR) UCITS ETF Dist;ETF;sector
+408;DJAM.DE;Lyxor UCITS ETF Dow Jones Industrial Average;ETF;sector
+211;DNRA.DE;Amundi Index Solutions - Amundi Index MSCI North America UCITS ETF DR EUR;ETF;sector
+367;DRUP.DE;Lyxor Index Fund - Lyxor Disruptive Technologies (DR) Ucits ETF;ETF;sector
+140;DX22.DE;Xtrackers II - EUR Cash Swap UCITS ETF;ETF;sector
+41;DX2D.DE;Xtrackers LPX Private Equity Swap UCITS ETF 1C;ETF;sector
+58;DX2G.DE;Xtrackers - CAC 40 UCITS ETF;ETF;sector
+
+12;DX2S.DE;Xtrackers - S&P ASX 200 UCITS ETF;ETF;sector
+91;DX2X.DE;Xtrackers - Stoxx Europe 600 UCITS ETF;ETF;sector
+38;DX2Z.DE;Xtrackers - S&P Select Frontier Swap UCITS ETF;ETF;sector
+63;DXET.DE;Xtrackers - Euro Stoxx 50 UCITS ETF;ETF;sector
+157;DXS0.DE;Xtrackers - SLI UCITS ETF;ETF;sector
+195;DXS3.DE;Xtrackers - S&P 500 Inverse Daily Swap UCITS ETF;ETF;sector
+73;DXS5.DE;Xtrackers - MSCI AC Asia ex Japan Swap UCITS ETF;ETF;sector
+
+
+
+189;DXSM.DE;Xtrackers - Bloomberg Commodity ex-Agriculture & Livestock Swap UCITS ETF;ETF;sector
+28;DXSN.DE;Xtrackers - ShortDAX Daily Swap UCITS ETF;ETF;sector
+154;DXSQ.DE;Xtrackers II - iTraxx Europe Swap UCITS ETF;ETF;sector
+143;DXSW.DE;Xtrackers II - iBoxx Germany Covered Bond Swap UCITS ETF;ETF;sector
+33;DXSZ.DE;Xtrackers II - USD Overnight Rate Swap UCITS ETF;ETF;sector
+390;E127.DE;Lyxor MSCI Emerging Markets (LUX) UCITS ETF;ETF;sector
+
+334;E6BR.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Basic Resources UCITS ETF Dis;ETF;sector
+
+
+
+366;EBUY.DE;Lyxor Index Fund - Lyxor Digital Economy (DR) UCITS ETF;ETF;sector
+264;ECR3.DE;Amundi Index Solutions - Amundi Index Euro Corporate Sri 0-3 Y;ETF;sector
+
+
+700;EFRN.DE;"iShares &#226;&#130;&#172; Floating Rate Bond UCITS ETF EUR (Dist)";ETF;sector
+348;EGV1.DE;Lyxor STOXX Europe 600 Insurance UCITS ETF Dis;ETF;sector
+375;EGV2.DE;MULTI-UNITS LUXEMBOURG - Lyxor Smart Overnight Return;ETF;sector
+
+344;EHLT.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Healthcare UCITS ETF Dis;ETF;sector
+
+789;EUED.DE;"iShares &#226;&#130;&#172; Ultrashort Bond ESG UCITS ETF EUR Inc";ETF;sector
+386;EUIN.DE;Lyxor US$ 10Y Inflation Expectations UCITS ETF - C-USD;ETF;sector
+
+572;EUN2.DE;iShares II Public Limited Company - iShares EURO STOXX 50 UCITS ETF;ETF;sector
+
+617;EUNA.DE;iShares III Public Limited Company - iShares Global Aggregate Bond UCITS ETF;ETF;sector
+735;EUNJ.DE;iShares III Public Limited Company - iShares MSCI Pacific ex-Japan UCITS ETF;ETF;sector
+628;EUNK.DE;iShares Core MSCI Europe UCITS ETF EUR (Acc);ETF;sector
+641;EUNL.DE;iShares Core MSCI World UCITS ETF USD (Acc);ETF;sector
+625;EUNM.DE;iShares MSCI EM UCITS ETF USD (Acc);ETF;sector
+722;EUNN.DE;iShares Core MSCI Japan IMI UCITS ETF USD (Acc);ETF;sector
+
+
+
+
+664;EXHE.DE;iShares Pfandbriefe UCITS ETF (DE);ETF;sector
+562;EXHF.DE;iShares Euro Government Bond Capped 1.5-10.5yr UCITS ETF (DE);ETF;sector
+656;EXI1.DE;iShares SLI UCITS ETF (DE);ETF;sector
+580;EXI2.DE;iShares (DE) I - iShares Dow Jones Global Titans 50 UCITS ETF (DE);ETF;sector
+581;EXI3.DE;iShares Dow Jones Industrial Average UCITS ETF (DE);ETF;sector
+676;EXI5.DE;iShares STOXX Europe 600 Real Estate UCITS ETF (DE);ETF;sector
+
+602;EXSA.DE;iShares STOXX Europe 600 UCITS ETF (DE);ETF;sector
+579;EXSI.DE;iShares EURO STOXX UCITS ETF (DE);ETF;sector
+
+
+590;EXVM.DE;iShares eb.rexx Money Market UCITS ETF (DE);ETF;sector
+539;EXW1.DE;iShares EURO STOXX 50 UCITS ETF (DE);ETF;sector
+601;EXW3.DE;iShares STOXX Europe 50 UCITS ETF (DE);ETF;sector
+588;EXX1.DE;iShares EURO STOXX Banks 30-15 UCITS ETF (DE);ETF;sector
+583;EXX5.DE;iShares Dow Jones U.S. Select Dividend UCITS ETF (DE);ETF;sector
+585;EXX6.DE;iShares eb.rexx Government Germany 10.5+yr UCITS ETF (DE);ETF;sector
+645;EXX7.DE;iShares Nikkei 225 UCITS ETF (DE);ETF;sector
+543;EXXT.DE;iShares NASDAQ-100 UCITS ETF (DE);ETF;sector
+542;EXXU.DE;iShares Dow Jones China Offshore 50 UCITS ETF (DE);ETF;sector
+591;EXXV.DE;iShares Dow Jones Eurozone Sustainability Screened UCITS ETF (DE);ETF;sector
+570;EXXW.DE;iShares Dow Jones Asia Pacific Select Dividend 30 UCITS ETF (DE);ETF;sector
+598;EXXX.DE;iShares ATX UCITS ETF (DE);ETF;sector
+682;EXXY.DE;iShares Diversified Commodity Swap UCITS ETF (DE);ETF;sector
+317;F701.DE;Lyxor Portfolio Strategy UCITS ETF;ETF;sector
+318;F702.DE;ComStage - Vermögensstrategie Defensiv UCITS ETF;ETF;sector
+319;F703.DE;Lyxor Portfolio Strategy Offensiv UCITS ETF (Vermoegensstrategie);ETF;sector
+235;FRNE.DE;Amundi Index Solutions - Amundi Floating Rate Euro Corporate 1-3 UCITS ETF;ETF;sector
+233;FRNH.DE;Amundi Index Solutions - Amundi ETF Floating Rate USD Corporate;ETF;sector
+234;FRNU.DE;Amundi Index Solutions - Amundi ETF Floating Rate USD Corporate;ETF;sector
+301;GC2U.DE;Amundi ETF Short MSCI USA Daily UCITS ETF;ETF;sector
+227;GC40.DE;Amundi Index Solutions - Amundi CAC 40;ETF;sector
+373;GENY.DE;Lyxor Index Fund - Lyxor MSCI Millennials ESG Filtered (DR) UCITS ETF;ETF;sector
+259;GLUX.DE;"Amundi Index Solutions - Amundi S&amp;P Global Luxury ETF-C EUR";ETF;sector
+269;GNAR.DE;Amundi Index Solutions - Amundi MSCI USA SRI UCITS ETF DR;ETF;sector
+265;GOAI.DE;Amundi Stoxx Global Artificial Intelligence;ETF;sector
+213;H1D5.DE;Amundi Index Solutions - Amundi ETF S&P 500;ETF;sector
+252;HNDX.DE;Amundi Index Solutions - Amundi NASDAQ-100;ETF;sector
+686;HYLE.DE;iShares Global High Yield Corp Bond UCITS ETF EUR Hedged (Dist);ETF;sector
+783;I500.DE;"iShares S&amp;P 500 Swap UCITS ETF USD (Acc)";ETF;sector
+705;IBB1.DE;iShares $ Treasury Bond 7-10yr UCITS ETF EUR Hedged (Dist);ETF;sector
+611;IBC0.DE;iShares Edge MSCI Europe Multifactor UCITS ETF EUR (Acc);ETF;sector
+703;IBC2.DE;iShares $ High Yield Corp Bond UCITS ETF EUR Hedged (Dist);ETF;sector
+691;IBC3.DE;iShares Public Limited Company - iShares Core MSCI EM IMI UCITS ETF;ETF;sector
+636;IBC4.DE;iShares MSCI South Africa UCITS ETF USD (Acc);ETF;sector
+702;IBC5.DE;iShares II Public Limited Company - iShares $ TIPS UCITS ETF;ETF;sector
+
+
+
+
+770;IBCG.DE;iShares MSCI Japan EUR Hedged UCITS ETF (Acc);ETF;sector
+
+612;IBCY.DE;iShares Edge MSCI USA Multifactor UCITS ETF USD (Acc);ETF;sector
+613;IBCZ.DE;iShares IV Public Limited Company - iShares Edge MSCI World Multifactor UCITS ETF;ETF;sector
+752;ICGA.DE;iShares IV Public Limited Company - iShares MSCI China A UCITS ETF;ETF;sector
+738;ICGB.DE;iShares China CNY Bond UCITS ETF USD (Dist);ETF;sector
+
+
+
+567;IPRE.DE;iShares European Property Yield UCITS ETF EUR (Acc);ETF;sector
+374;IQCY.DE;Lyxor Index Fund - Lyxor MSCI Smart Cities ESG Filtered (DR) UCITS ETF Acc;ETF;sector
+695;IQQ4.DE;iShares Asia Property Yield UCITS ETF USD (Dist);ETF;sector
+696;IQQ9.DE;iShares BRIC 50 UCITS ETF USD (Dist);ETF;sector
+
+
+
+
+
+561;IQQD.DE;iShares Public Limited Company - iShares UK Dividend UCITS ETF;ETF;sector
+568;IQQE.DE;iShares MSCI EM UCITS ETF USD (Dist);ETF;sector
+555;IQQF.DE;iShares Public Limited Company - iShares MSCI AC Far East ex-Japan UCITS ETF;ETF;sector
+566;IQQG.DE;iShares Euro Total Market Growth Large UCITS ETF EUR (Dist);ETF;sector
+
+
+551;IQQM.DE;iShares Public Limited Company - iShares EURO STOXX Mid UCITS ETF;ETF;sector
+559;IQQN.DE;iShares Public Limited Company - iShares MSCI North America UCITS ETF;ETF;sector
+552;IQQP.DE;iShares European Property Yield UCITS ETF EUR (Dist);ETF;sector
+712;IQQQ.DE;iShares Global Water UCITS ETF USD (Dist);ETF;sector
+692;IQQR.DE;iShares Public Limited Company - iShares MSCI Eastern Europe Capped UCITS ETF;ETF;sector
+
+
+569;IQQU.DE;iShares Public Limited Company - iShares MSCI Europe ex-UK UCITS ETF;ETF;sector
+546;IQQX.DE;iShares Public Limited Company - iShares Asia Pacific Dividend UCITS ETF;ETF;sector
+
+610;IS05.DE;iShares IV Public Limited Company - iShares Euro Government Bond 20yr Target Duration UCITS ETF;ETF;sector
+727;IS06.DE;"iShares &#226;&#130;&#172; Corp Bond BBB-BB UCITS ETF EUR (Dist)";ETF;sector
+644;IS07.DE;iShares IV Public Limited Company - iShares Edge MSCI World Multifactor UCITS ETF;ETF;sector
+771;IS0D.DE;"iShares Oil &amp; Gas Exploration &amp; Production UCITS ETF USD (Acc)";ETF;sector
+798;IS0E.DE;iShares Gold Producers UCITS ETF USD (Acc);ETF;sector
+774;IS0P.DE;iShares Spain Govt Bond UCITS ETF EUR (Dist);ETF;sector
+594;IS0R.DE;iShares II Public Limited Company - iShares $ High Yield Corporate Bond UCITS ETF;ETF;sector
+725;IS0S.DE;iShares Emerging Asia Local Govt Bond UCITS ETF USD (Dist);ETF;sector
+553;IS0X.DE;iShares Global Corp Bond UCITS ETF USD (Dist);ETF;sector
+
+608;IS31.DE;"iShares Edge S&amp;P 500 Minimum Volatility UCITS ETF EUR Hedged (Acc)";ETF;sector
+780;IS3B.DE;iShares VI Public Limited Company - iShares Euro Corporate Bond Financials UCITS ETF;ETF;sector
+784;IS3C.DE;iShares J.P. Morgan $ EM Bond EUR Hedged UCITS ETF (Dist);ETF;sector
+563;IS3F.DE;iShares Public Limited Company - iShares $ Corp Bond Interest Rate Hedged UCITS ETF;ETF;sector
+626;IS3G.DE;iShares IV Public Limited Company - iShares MSCI EMU Large Cap UCITS ETF;ETF;sector
+792;IS3H.DE;iShares MSCI EMU Mid Cap UCITS ETF EUR (Acc);ETF;sector
+576;IS3J.DE;iShares IV Public Limited Company - iShares $ Short Duration Corporate Bond UCITS ETF;ETF;sector
+577;IS3K.DE;iShares $ Short Duration High Yield Corp Bond UCITS ETF USD (Dist);ETF;sector
+578;IS3L.DE;iShares $ Ultrashort Bond UCITS ETF USD (Dist);ETF;sector
+575;IS3M.DE;iShares IV Public Limited Company - iShares Euro Ultrashort Bond UCITS ETF;ETF;sector
+624;IS3N.DE;iShares Public Limited Company - iShares Core MSCI EM IMI UCITS ETF;ETF;sector
+
+812;IS3U.DE;iShares MSCI France UCITS ETF EUR (Acc);ETF;sector
+687;IS3V.DE;iShares Global Inflation Linked Govt Bond UCITS ETF EUR Hedged (Acc);ETF;sector
+739;IS4S.DE;iShares Digital Security UCITS ETF USD Dist;ETF;sector
+603;ISPA.DE;iShares (DE) I - iShares STOXX Global Select Dividend 100 UCITS ETF (DE);ETF;sector
+698;IU0E.DE;iShares $ Corp Bond SRI 0-3yr UCITS ETF EUR Hedged (Acc);ETF;sector
+773;IU5C.DE;Ishares V Plc - Ishares S&P 500 Communication Sector Ucits Etf;ETF;sector
+772;IUS2.DE;"iShares S&amp;P U.S. Banks ETF";ETF;sector
+634;IUS4.DE;iShares MSCI Japan Small Cap UCITS ETF USD (Dist);ETF;sector
+732;IUS5.DE;iShares Global Inflation Linked Govt Bond UCITS ETF USD (Acc);ETF;sector
+714;IUS7.DE;iShares J.P. Morgan $ EM Bond UCITS ETF USD (Dist);ETF;sector
+707;IUS8.DE;iShares II Public Limited Company - iShares EM Infrastructure UCITS ETF;ETF;sector
+646;IUSA.DE;"iShares Core S&amp;P 500 UCITS ETF USD Dist";ETF;sector
+719;IUSK.DE;iShares MSCI Europe SRI UCITS ETF EUR (Acc);ETF;sector
+704;IUSM.DE;iShares $ Treasury Bond 7-10yr UCITS ETF USD (Dist);ETF;sector
+x
+736;IUSS.DE;iShares MSCI Saudi Arabia Capped UCITS ETF USD (Acc);ETF;sector
+660;IUST.DE;iShares II Public Limited Company - iShares $ TIPS UCITS ETF;ETF;sector
+545;IUSU.DE;iShares Public Limited Company - iShares $ Treasury Bond 1-3yr UCITS ETF;ETF;sector
+741;IUSV.DE;iShares $ Treasury Bond 20+yr UCITS ETF EUR Hedged (Dist);ETF;sector
+737;IUSW.DE;iShares MSCI Saudi Arabia Capped UCITS ETF USD (Dist);ETF;sector
+615;IUSZ.DE;iShares Public Limited Company - iShares Core FTSE 100 UCITS ETF;ETF;sector
+724;IWLE.DE;iShares III Public Limited Company - iShares Core MSCI World UCITS ETF;ETF;sector
+210;J1GR.DE;Amundi ETF MSCI JAPAN UCITS ETF DR;ETF;sector
+266;JARH.DE;Amundi Index Solutions - Amundi Index MSCI Japan SRI UCITS ETF DR Hedged (C);ETF;sector
+267;JARI.DE;Amundi Index Solutions - Amundi Index MSCI Japan SRI UCITS ETF DR (C);ETF;sector
+356;JNHA.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Retail UCITS ETF 2;ETF;sector
+497;JNHD.DE;MULTI-UNITS LUXEMBOURG - Lyxor Core MSCI Japan (DR) UCITS ETF - Daily Hedged to EUR - Dist;ETF;sector
+241;JP40.DE;Amundi Index Solutions - Amundi JPX-Nikkei 400 UCITS ETF-C EUR;ETF;sector
+242;JP4H.DE;Amundi Index Solutions - Amundi JPX-Nikkei 400;ETF;sector
+495;JPNE.DE;Lyxor JPX-Nikkei 400 (DR) UCITS ETF - Daily Hedged D-EUR;ETF;sector
+433;JPNH.DE;Lyxor Japan (Topix) (DR) UCITS ETF Daily Hedged to EUR Dist;ETF;sector
+516;KLMH.DE;Multi Units Luxembourg - Lyxor Green Bond (DR) UCITS ETF;ETF;sector
+517;KLMT.DE;Lyxor Green Bond (DR) UCITS ETF - C-EUR;ETF;sector
+205;KX1G.DE;Amundi Index Solutions - Amundi Govt Bond Lowest Rated Euromts Investment Grade UCITS ETF-C;ETF;sector
+740;L0CK.DE;iShares Digital Security UCITS ETF USD Acc;ETF;sector
+505;L4K3.DE;Lyxor MSCI China UCITS ETF - Acc;ETF;sector
+384;L8I3.DE;Lyxor Euro Cash UCITS ETF;ETF;sector
+396;L8I7.DE;Lyxor Nasdaq-100 Daily (2x) Leveraged UCITS ETF Acc;ETF;sector
+459;LASI.DE;Lyxor MSCI AC Asia Ex Japan UCITS ETF - Acc-EUR;ETF;sector
+460;LASP.DE;Lyxor MSCI AC Asia Pacific Ex Japan UCITS ETF - Acc-EUR;ETF;sector
+329;LAUT.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Automobiles &amp; Parts UCITS ETF Acc";ETF;sector
+331;LBNK.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Banks UCITS ETF Acc;ETF;sector
+474;LBRA.DE;Lyxor MSCI Brazil UCITS ETF Acc;ETF;sector
+333;LBRE.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Basic Resources UCITS ETF;ETF;sector
+463;LCHI.DE;Lyxor China Enterprise (HSCEI) UCITS ETF - Acc-EUR;ETF;sector
+335;LCHM.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Chemicals UCITS ETF Acc;ETF;sector
+337;LCST.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Construction &amp; Materials UCITS ETF Acc";ETF;sector
+461;LCTR.DE;Lyxor Commodities Refinitiv/CoreCommodity CRB Ex-Energy TR UCITS ETF - Acc-EUR;ETF;sector
+376;LCUK.DE;Multi Units Luxembourg - Lyxor Core UK Equity All Cap (DR) UCITS ETF;ETF;sector
+496;LCUS.DE;Lyxor Core Morningstar US (DR) UCITS ETF -Dist;ETF;sector
+498;LCUW.DE;Lyxor Core MSCI World (DR) UCITS ETF;ETF;sector
+328;LCVB.DE;Lyxor Index Fund - Lyxor EuroMTS Covered Bond Aggregate UCITS ETF Acc;ETF;sector
+503;LEAD.DE;Multi Units Luxembourg - Lyxor MSCI Europe ESG Leaders (DR) UCITS ETF;ETF;sector
+465;LEER.DE;Lyxor MSCI Eastern Europe ex Russia UCITS ETF Acc;ETF;sector
+370;LEEU.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Real Estate UCITS ETF - Dist;ETF;sector
+
+341;LFIN.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Financial Services UCITS ETF Acc;ETF;sector
+339;LFOD.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Food & Beverage UCITS ETF;ETF;sector
+429;LGQG.DE;Lyxor EURO STOXX 300 (DR) - UCITS ETF C-EUR;ETF;sector
+425;LGQI.DE;Multi Units Luxembourg - Lyxor SG Global Quality Income NTR UCITS ETF;ETF;sector
+437;LGQK.DE;Lyxor MSCI Pacific Ex Japan UCITS ETF - D-USD;ETF;sector
+452;LGQM.DE;MULTI-UNITS LUXEMBOURG - Lyxor Pan Africa UCITS ETF - Acc;ETF;sector
+436;LGWS.DE;Lyxor Index Fund - Lyxor MSCI EMU Value (DR) UCITS ETF Dist;ETF;sector
+415;LGWT.DE;Lyxor Index Fund - Lyxor MSCI EMU Growth (DR) UCITS ETF;ETF;sector
+416;LGWU.DE;Lyxor Index Fund - Lyxor MSCI EMU Small Cap (DR) UCITS ETF Dist;ETF;sector
+472;LHKG.DE;Lyxor Hong Kong (HSI) UCITS ETF - Dist-EUR;ETF;sector
+
+479;LKOR.DE;Lyxor MSCI Korea UCITS ETF - Acc-EUR;ETF;sector
+466;LLAM.DE;Lyxor MSCI EM Latin America UCITS ETF Acc;ETF;sector
+349;LMDA.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Media UCITS ETF;ETF;sector
+464;LMVF.DE;Lyxor Core MSCI EMU (DR) UCITS ETF - D-EUR;ETF;sector
+371;LMWE.DE;Lyxor FTSE Epra/Nareit Global Developed UCITS ETF D EUR Inc;ETF;sector
+
+
+
+
+477;LTUR.DE;Lyxor MSCI Turkey UCITS ETF Acc;ETF;sector
+361;LTVL.DE;"Lyxor Index Fund - Lyxor STOXX Europe 600 Travel &amp; Leisure UCITS ETF Acc";ETF;sector
+476;LTWN.DE;Lyxor MSCI Taiwan UCITS ETF - Acc-EUR;ETF;sector
+363;LUTI.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Utilities UCITS ETF Acc;ETF;sector
+364;LUTL.DE;Lyxor Index Fund - Lyxor Stoxx Europe 600 Utilities UCITS ETF Dis;ETF;sector
+500;LVDX.DE;MULTI-UNITS LUXEMBOURG - Lyxor Daily LevDAX UCITS ETF - Dis;ETF;sector
+208;LWCR.DE;Amundi Index Solutions - Amundi Index MSCI Europe Climate Change;ETF;sector
+467;LYBF.DE;Lyxor ESG Euro Corporate Bond Ex Financials (DR) UCITS ETF P Acc;ETF;sector
+470;LYBK.DE;Lyxor EURO STOXX Banks UCITS ETF P Acc;ETF;sector
+501;LYEB.DE;Lyxor UCITS ETF Euro Corporate Bond;ETF;sector
+421;LYM9.DE;Multi Units France - Lyxor New Energy (DR) UCITS ETF;ETF;sector
+
+
+512;LYMS.DE;Lyxor Nasdaq-100 Ucits ETF Acc;ETF;sector
+385;LYMZ.DE;Lyxor UCITS ETF Euro Stoxx 50 Daily Leverage;ETF;sector
+426;LYP2.DE;"Lyxor S&amp;P 500 UCITS ETF - Daily Hedged D-EUR";ETF;sector
+381;LYP6.DE;Lyxor Core STOXX Europe 600 (DR) - UCITS ETF Acc;ETF;sector
+
+422;LYPS.DE;Multi Units Luxembourg - Lyxor S&P 500 UCITS ETF;ETF;sector
+424;LYPU.DE;Multi Units Luxembourg - Lyxor Australia (S&P/ASX 200) UCITS ETF;ETF;sector
+
+
+
+471;LYQ6.DE;Multi Units Luxembourg - Lyxor EuroMTS 10-15Y Investment Grade (DR) UCITS ETF;ETF;sector
+492;LYQ7.DE;Lyxor Core Euro Government Inflation-Linked Bond (DR) UCITS ETF - Acc;ETF;sector
+404;LYQK.DE;Multi Units France - Lyxor Bund Daily (-2X) Inverse UCITS ETF;ETF;sector
+405;LYQL.DE;LYXOR DAILY SHORTDAX X2 UCITS ETF;ETF;sector
+372;LYQS.DE;Lyxor iBoxx $ Liquid Emerging Markets Sovereign UCITS ETF - Dist;ETF;sector
+380;LYQY.DE;Lyxor Index Fund - Lyxor ESG Euro High Yield (DR) UCITS ETF;ETF;sector
+407;LYSX.DE;Multi Units France - Lyxor Euro Stoxx 50 (DR) UCITS ETF;ETF;sector
+462;LYTR.DE;Lyxor Commodities Refinitiv/CoreCommodity CRB TR UCITS ETF - Acc-EUR;ETF;sector
+336;LYX4.DE;Lyxor Index Fund - Lyxor STOXX Europe 600 Chemicals UCITS ETF Dis;ETF;sector
+
+475;LYXI.DE;Lyxor MSCI Indonesia UCITS ETF Acc;ETF;sector
+504;LYY0.DE;Lyxor MSCI All Country World UCITS ETF Acc;ETF;sector
+413;LYY4.DE;Multi Units France - Lyxor Japan (Topix) (DR) UCITS ETF;ETF;sector
+417;LYY5.DE;Lyxor MSCI Europe (DR) UCITS ETF Acc;ETF;sector
+406;LYY7.DE;Multi Units Luxembourg - Lyxor DAX (DR) UCITS ETF;ETF;sector
+414;LYY8.DE;Multi Units Luxembourg - Lyxor Daily LevDAX UCITS ETF;ETF;sector
+420;LYYA.DE;Lyxor MSCI World UCITS ETF;ETF;sector
+419;LYYB.DE;Lyxor MSCI USA UCITS ETF Dist;ETF;sector
+434;MD4X.DE;Lyxor German Mid-Cap MDAX UCITS ETF Dist;ETF;sector
+217;MIVB.DE;Amundi Index Solutions - Amundi MSCI Europe SRI UCITS ETF DR;ETF;sector
+
+
+430;MSED.DE;Lyxor Index Fund - Lyxor Core Euro Stoxx 50 (DR);ETF;sector
+354;MTDA.DE;"Lyxor STOXX Europe 600 Personal &amp; Household Goods UCITS ETF Dis";ETF;sector
+365;MTDB.DE;Lyxor Core Euro Stoxx 50 (DR) ETF Dist;ETF;sector
+488;MTDD.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 7-10Y (DR) UCITS ETF 2;ETF;sector
+777;MVEA.DE;iShares Edge MSCI USA Minimum Volatility ESG UCITS ETF USD (Acc);ETF;sector
+776;MVEE.DE;Ishares Vi Public Limited Company - Ishares Edge Msci Europe Minimum Volatility ESG Ucits ETF;ETF;sector
+
+499;NADA.DE;Lyxor Core MSCI Japan (DR) UCITS ETF 2;ETF;sector
+484;NADB.DE;MULTI-UNITS LUXEMBOURG - Lyxor Euro Government Bond 10-15Y (DR) UCITS ETF;ETF;sector
+788;NQSE.DE;iShares VII Public Limited Company -  iShares NASDAQ 100 UCITS ETF;ETF;sector
+352;OIGS.DE;"Lyxor Index Fund - Lyxor Stoxx Europe 600 Oil &amp; Gas UCITS ETF Dis";ETF;sector
+708;OM3F.DE;"iShares &#226;&#130;&#172; Corp Bond ESG UCITS ETF EUR (Dist)";ETF;sector
+793;OM3L.DE;iShares MSCI USA ESG Enhanced UCITS ETF USD Inc;ETF;sector
+786;OM3M.DE;iShares VII Public Limited Company - iShares $ Treasury Bond 3-7yr UCITS ETF;ETF;sector
+754;OM3Y.DE;iShares MSCI EM IMI ESG Screened UCITS ETF USD (Dist);ETF;sector
+782;OPEN.DE;iShares Thomson Reuters Inclusion and Diversity UCITS ETF USD Acc;ETF;sector
+277;PR1C.DE;Amundi Index Solutions - Amundi Prime Euro Corporates UCITS ETF DR;ETF;sector
+307;PR1E.DE;Amundi Index Solutions - Amundi Prime Europe UCITS ETF DR;ETF;sector
+284;PR1G.DE;Amundi Index Solutions - Amundi Prime Global Govies UCITS ETF DR;ETF;sector
+274;PR1H.DE;Amundi Index Solutions - Amundi Prime US Treasury Bond 0-1 Y UCITS ETF DR - EUR Hedged (C);ETF;sector
+285;PR1J.DE;Amundi Index Solutions - Amundi Prime Japan UCITS ETF DR;ETF;sector
+310;PR1P.DE;Amundi Index Solutions - Amundi Prime US Corporates UCITS ETF DR;ETF;sector
+283;PR1R.DE;Amundi Index Solutions - Amundi Prime Euro Govies UCITS ETF DR;ETF;sector
+279;PR1S.DE;Amundi Index Solutions - Amundi Prime US Treasury UCITS ETF DR;ETF;sector
+273;PR1T.DE;Amundi Index Solutions - Amundi Prime US Treasury Bond 0-1 Y UCITS ETF DR - USD (C);ETF;sector
+286;PR1U.DE;Amundi Index Solutions - Amundi Prime USA UCITS ETF DR;ETF;sector
+308;PR1W.DE;Amundi Index Solutions - Amundi Prime Global UCITS ETF DR;ETF;sector
+287;PR1Z.DE;Amundi Index Solutions - Amundi Prime Eurozone UCITS ETF DR;ETF;sector
+272;PRAB.DE;Amundi Prime Euro Gov Bonds 0-1Y UCITS ETF DR Cap;ETF;sector
+276;PRAC.DE;Amundi Index Solutions - Amundi Prime Euro Corporates UCITS ETF DR (C);ETF;sector
+303;PRAE.DE;Amundi Index Solutions - Amundi Prime Europe UCITS ETF DR (C);ETF;sector
+305;PRAG.DE;Amundi Index Solutions - Amundi Prime Global Govies UCITS ETF DR (C);ETF;sector
+306;PRAJ.DE;Amundi Index Solutions - Amundi Prime Japan UCITS ETF DR (C);ETF;sector
+309;PRAP.DE;Amundi Index Solutions - Amundi Prime US Corporates UCITS ETF DR (C);ETF;sector
+282;PRAR.DE;Amundi Index Solutions - Amundi Prime Euro Govies UCITS ETF DR (C);ETF;sector
+302;PRAS.DE;Amundi Index Solutions - Amundi Prime US Treasury UCITS ETF DR (C);ETF;sector
+288;PRAU.DE;Amundi Index Solutions - Amundi Prime USA UCITS ETF DR (C);ETF;sector
+304;PRAZ.DE;Amundi Index Solutions - Amundi Prime Eurozone UCITS ETF DR (C);ETF;sector
+759;QDV5.DE;iShares MSCI India UCITS ETF USD Acc;ETF;sector
+637;QDVA.DE;iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc);ETF;sector
+638;QDVB.DE;iShares IV Public Limited Company - iShares Edge MSCI USA Quality Factor UCITS ETF;ETF;sector
+
+657;QDVL.DE;"iShares &#226;&#130;&#172; Corp Bond 0-3yr ESG UCITS ETF EUR (Dist)";ETF;sector
+635;QDVN.DE;iShares MSCI Japan SRI EUR Hedged UCITS ETF (Acc);ETF;sector
+662;QDVP.DE;iShares US Mortgage Backed Securities UCITS ETF USD (Dist);ETF;sector
+619;QDVQ.DE;iShares Fallen Angels High Yield Corp Bond UCITS ETF USD (Dist);ETF;sector
+659;QDVR.DE;iShares MSCI USA SRI UCITS ETF USD (Acc);ETF;sector
+658;QDVS.DE;iShares MSCI EM SRI UCITS ETF USD (Acc);ETF;sector
+720;QDVW.DE;iShares MSCI World Quality Dividend UCITS ETF USD (Dist);ETF;sector
+718;QDVX.DE;iShares II Public Limited Company - iShares MSCI Europe Quality Dividend UCITS ETF;ETF;sector
+699;QDVY.DE;iShares $ Floating Rate Bond UCITS ETF USD (Dist);ETF;sector
+316;REAL.DE;Amundi Index Solutions - Amundi FTSE EPRA Europe Real Estate UCITS ETF;ETF;sector
+395;ROAI.DE;Lyxor Index Fund - Lyxor Robotics & AI UCITS ETF;ETF;sector
+10;RQFI.DE;Xtrackers - Harvest CSI300 UCITS ETF;ETF;sector
+258;RS2K.DE;Amundi Index Solutions - Amundi Russell 2000;ETF;sector
+
+
+
+
+
+
+
+
+
+295;SMRN.DE;Amundi Etf Istoxx Europe Multi Factor Market Neutral Ucits Etf;ETF;sector
+684;SNA2.DE;Ishares PLC - Ishares Treasury Bond Ucits ETF;ETF;sector
+697;SNAV.DE;iShares $ Corp Bond SRI 0-3yr UCITS ETF USD (Dist);ETF;sector
+764;SNAW.DE;iShares IV Public Limited Company - iShares MSCI World ESG Screened UCITS ETF;ETF;sector
+799;SNAZ.DE;iShares J.P. Morgan $ EM Corp Bond UCITS ETF EUR Hedged (Acc);ETF;sector
+
+262;SRHE.DE;Amundi Index Solutions - Amundi Index MSCI EMU SRI Ucits ETF DR Cap;ETF;sector
+431;STXH.DE;Lyxor Index Fund - Lyxor Core STOXX Europe 600 (DR) UCITS ETF Monthly Hedged to EUR - Dist;ETF;sector
+643;SXR0.DE;iShares VI Public Limited Company - iShares Edge MSCI World Minimum Volatility UCITS ETF;ETF;sector
+785;SXR1.DE;iShares VII Public Limited Company - iShares Core MSCI Pacific ex Japan UCITS ETF;ETF;sector
+
+532;SXR3.DE;iShares VII PLC - iShares MSCI UK ETF GBP Acc;ETF;sector
+533;SXR4.DE;iShares VII Public Limited Company - iShares MSCI USA UCITS ETF;ETF;sector
+529;SXR5.DE;iShares VII Public Limited Company - iShares MSCI Japan UCITS ETF USD (Acc);ETF;sector
+633;SXR6.DE;iShares MSCI Japan SRI UCITS ETF;ETF;sector
+528;SXR7.DE;iShares VII PLC -iShares Core MSCI EMU UCITS ETF EUR (Acc);ETF;sector
+536;SXR8.DE;"iShares Core S&amp;P 500 UCITS ETF USD (Acc)";ETF;sector
+520;SXRD.DE;iShares VII Public Limited Company - iShares MSCI UK Small Cap UCITS ETF;ETF;sector
+595;SXRF.DE;iShares $ Intermediate Credit Bond UCITS ETF USD (Dist);ETF;sector
+
+596;SXRH.DE;iShares $ TIPS 0-5 UCITS ETF USD (Dist);ETF;sector
+519;SXRJ.DE;iShares VII PLC - iShares MSCI EMU Small Cap ETF EUR Acc;ETF;sector
+701;SXRR.DE;iShares $ Floating Rate Bond UCITS ETF EUR Hedged (Dist);ETF;sector
+690;SXRS.DE;iShares VI Public Limited Company - iShares Diversified Commodity Swap UCITS ETF;ETF;sector
+522;SXRT.DE;iShares VII Public Limited Company - iShares Core EURO STOXX 50 UCITS ETF;ETF;sector
+
+
+
+
+228;TCC4.DE;Amundi Index Solutions - Amundi EURO Corporates Ucits ETF EUR C;ETF;sector
+
+202;UCRP.DE;Amundi Index Solutions - Amundi Index US Corp SRI UCITS ETF DR Acc;ETF;sector
+796;UEEA.DE;iShares MSCI World SRI UCITS ETF EUR Hedged (Dist);ETF;sector
+
+
+
+837;WTDX.DE;WisdomTree Japan Equity UCITS ETF - USD Hedged;ETF;sector
+840;WTDY.DE;WisdomTree US Equity Income UCITS ETF - EUR Hedged Acc;ETF;sector
+
+826;WTEI.DE;WisdomTree Issuer ICAV - WisdomTree Emerging Markets Equity Income UCITS ETF;ETF;sector
+
+838;WTEU.DE;WisdomTree US Equity Income UCITS ETF;ETF;sector
+822;WTI2.DE;WisdomTree Issuer ICAV - Artificial Intelligence Ucits Fund;ETF;sector
+827;WTIC.DE;WisdomTree Enhanced Commodity UCITS ETF - USD Acc;ETF;sector
+836;WTIF.DE;WisdomTree Japan Equity UCITS ETF - EUR Hedged Acc;ETF;sector
+820;WTIM.DE;WisdomTree Issuer ICAV - WisdomTree Eurozone Quality Dividend Growth UCITS ETF;ETF;sector
+835;WTIZ.DE;WisdomTree Japan Equity UCITS ETF - JPY Acc;ETF;sector
+442;X010.DE;Lyxor MSCI World (LUX) UCITS ETF;ETF;sector
+325;X011.DE;Lyxor MSCI Europe UCITS ETF;ETF;sector
+451;X013.DE;ComStage - MSCI North America UCITS ETF;ETF;sector
+
+
+
+
+165;XAIX.DE;"Xtrackers (IE) Plc - Xtrackers Artificial Intelligence &amp; Big Data UCITS ETF 1C";ETF;sector
+243;XAMB.DE;Amundi Index Solutions - Amundi MSCI World SRI UCITS ETF DR;ETF;sector
+55;XB4A.DE;Xtrackers - ATX UCITS ETF;ETF;sector
+
+
+
+2;XCHA.DE;Xtrackers - CSI300 Swap UCITS ETF;ETF;sector
+
+
+77;XD5E.DE;Xtrackers - MSCI EMU UCITS ETF;ETF;sector
+
+
+57;XDGE.DE;Xtrackers (IE) Public Limited Company - Xtrackers USD Corporate Bond UCITS ETF;ETF;sector
+
+56;XDGU.DE;Xtrackers (IE) Public Limited Company - Xtrackers USD Corporate Bond UCITS ETF;ETF;sector
+194;XDJE.DE;Xtrackers - Nikkei 225 UCITS ETF;ETF;sector
+9;XDJP.DE;Xtrackers - Nikkei 225 UCITS ETF;ETF;sector
+
+
+
+
+29;XDUK.DE;Xtrackers - FTSE 100 UCITS ETF;ETF;sector
+
+
+
+119;XGLF.DE;Xtrackers (IE) Public Limited Company - Xtrackers MSCI GCC Select Swap UCITS ETF;ETF;sector
+
+78;XIEE.DE;Xtrackers - MSCI Europe UCITS ETF;ETF;sector
+
+
+
+186;XMOV.DE;Xtrackers (IE) Plc - Xtrackers Future Mobility UCITS ETF 1C;ETF;sector
+0;XMVE.DE;Xtrackers (IE) Plc - Xtrackers MSCI EMU Minimum Volatility UCITS ETF 1D;ETF;sector
+
+98;XREA.DE;Xtrackers (IE) Public Limited Company - Xtrackers FTSE Developed Europe ex UK Real Estate UCITS ETF;ETF;sector
+
+44;XS7W.DE;Concept Fund Solutions plc - db x-trackers Portfolio Income UCITS ETF;ETF;sector
+
+185;XUEB.DE;Xtrackers USD Emerging Markets Bond UCITS ETF;ETF;sector
+181;XUEK.DE;Xtrackers IE PLC - Xtrackers S&P Europe Ex Uk UCITS ETF;ETF;sector
+
+
+
+
+
+
+
+

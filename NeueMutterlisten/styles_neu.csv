@@ -1,0 +1,74 @@
+##### enthaelt styles und styles_broad, geordnet nach USA , World und EURopa
+#######################################
+
+
+;TICKER;TRUENAMES;industry;sector
+##################  USA
+
+821;WTDM.DE;WisdomTree US Quality Dividend Growth UCITS ETF - USD Acc;ETF;sector
+15;IJH;iShares Core S&P Mid-Cap ETF;ETF;sector
+12;IJJ;iShares S&P Mid-Cap 400 Value ETF;ETF;sector
+18;IJK;iShares S&P Mid-Cap 400 Growth ETF;ETF;sector
+0;IJR;iShares Core S&P Small-Cap ETF;ETF;sector
+16;IVE;iShares S&P 500 Value ETF;ETF;sector
+19;IVW;iShares S&P 500 Growth ETF;ETF;sector
+1;IWD;iShares Russell 1000 Value ETF;ETF;sector
+5;IWF;iShares Russell 1000 Growth ETF;ETF;sector
+14;IWM;iShares Russell 2000 ETF;ETF;sector
+13;IWN;iShares Russell 2000 Value ETF;ETF;sector
+17;IWO;iShares Russell 2000 Growth ETF;ETF;sector
+3;MTUM;iShares MSCI USA Momentum Factor ETF;ETF;sector
+25;IS31.DE;"iShares Edge S&amp;P 500 Minimum Volatility UCITS ETF EUR Hedged (Acc)";ETF;sector
+7;PKW;Invesco BuyBack Achievers ETF;ETF;sector
+11;PSP;Invesco Global Listed Private Equity ETF;ETF;sector
+30;IUQD.L;iShares IV Public Limited Company - iShares Edge MSCI USA Quality Factor UCITS ETF;ETF;sector
+8;QUAL;iShares MSCI USA Quality Factor ETF;ETF;sector
+2;USMV;iShares MSCI USA Min Vol Factor ETF;ETF;sector
+4;VYM;Vanguard High Dividend Yield Index Fund ETF Shares;ETF;sector
+9;IBCK.DE;"iShares Edge S&amp;P 500 Minimum Volatility UCITS ETF USD (Acc)";ETF;sector
+33;IUMD.L;iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Dist);ETF;sector
+6;CSD;Invesco S&P Spin-Off ETF;ETF;sector
+20;IBCY.DE;iShares Edge MSCI USA Multifactor UCITS ETF USD (Acc);ETF;sector
+32;IUVD.L;iShares Edge MSCI USA Value Factor UCITS ETF USD (Dist);ETF;sector
+1;MVEA.DE;iShares Edge MSCI USA Minimum Volatility ESG UCITS ETF USD (Acc);ETF;sector
+23;QDVA.DE;iShares Edge MSCI USA Momentum Factor UCITS ETF USD (Acc);ETF;sector
+24;QDVB.DE;iShares IV Public Limited Company - iShares Edge MSCI USA Quality Factor UCITS ETF;ETF;sector
+21;QDVC.DE;iShares IV Public Limited Company - iShares Edge MSCI USA Size Factor UCITS ETF;ETF;sector
+22;QDVI.DE;iShares Edge MSCI USA Value Factor UCITS ETF USD (Acc);ETF;sector
+35;UFSD.L;iShares Edge MSCI USA Multifactor UCITS ETF USD (Dist);ETF;sector
+
+#####EUROPA
+324;X025.DE;Lyxor MSCI Europe Mid Cap UCITS ETF;ETF;sector
+388;X026.DE;ComStage - MSCI Europe Small Cap UCITS ETF;ETF;sector
+38;IEQD.L;iShares Edge MSCI Europe Quality Factor UCITS ETF EUR (Dist);ETF;sector
+16;CEMQ.DE;iShares Edge MSCI Europe Quality Factor UCITS ETF EUR (Acc);ETF;sector
+15;CEMR.DE;iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc);ETF;sector
+37;IEMD.L;iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Dist);ETF;sector
+17;CEMS.DE;iShares Edge MSCI Europe Value Factor UCITS ETF EUR (Acc);ETF;sector
+39;IEDL.L;iShares Edge MSCI Europe Value Factor UCITS ETF EUR (Dist);ETF;sector
+14;CEMT.DE;iShares Edge MSCI Europe Size Factor UCITS ETF EUR (Acc);ETF;sector
+6;EUNZ.DE;iShares STOXX Europe 50 UCITS ETF EUR (Dist);ETF;sector
+19;IBC0.DE;iShares Edge MSCI Europe Multifactor UCITS ETF EUR (Acc);ETF;sector
+31;IFSD.L;iShares Edge MSCI Europe Multifactor UCITS ETF EUR (Dist);ETF;sector
+7;EUN0.DE;iShares Edge MSCI Europe Minimum Volatility UCITS ETF EUR (Acc);ETF;sector
+40;MVED.L;iShares Edge MSCI Europe Minimum Volatility UCITS ETF EUR (Dist);ETF;sector
+2;MVEE.DE;Ishares Vi Public Limited Company - Ishares Edge Msci Europe Minimum Volatility ESG Ucits ETF;ETF;sector
+28;QDVX.DE;iShares II Public Limited Company - iShares MSCI Europe Quality Dividend UCITS ETF;ETF;sector
+
+###### WORLD
+11;IS3R.DE;iShares Edge MSCI World Momentum Factor UCITS ETF USD (Acc);ETF;sector
+0;5MVL.DE;IShares IV Public Limited Company - iShares Edge MSCI EM Value Factor UCITS ETF;ETF;sector
+8;IQQ0.DE;iShares Edge MSCI World Minimum Volatility UCITS ETF USD (Acc);ETF;sector
+10;IS3S.DE;iShares Edge MSCI World Value Factor UCITS ETF USD (Acc);ETF;sector
+18;IBCZ.DE;iShares IV Public Limited Company - iShares Edge MSCI World Multifactor UCITS ETF;ETF;sector
+27;IS07.DE;iShares IV Public Limited Company - iShares Edge MSCI World Multifactor UCITS ETF;ETF;sector
+12;IS3Q.DE;iShares Edge MSCI World Quality Factor UCITS ETF USD (Acc);ETF;sector
+13;IS3T.DE;iShares Edge MSCI World Size Factor UCITS ETF USD (Acc);ETF;sector
+36;IWVU.L;iShares Edge MSCI World Value Factor UCITS ETF USD (Dist);ETF;sector
+3;MVEW.DE;Ishares VI Public Limited Company - iShares Edge MSCI World Minimum Volatility ESG UCITS ETF;ETF;sector
+10;IPO;Renaissance IPO ETF;ETF;sector
+29;QDVW.DE;iShares MSCI World Quality Dividend UCITS ETF USD (Dist);ETF;sector
+34;SPMD.L;"iShares Edge S&amp;P 500 Minimum Volatility UCITS ETF USD (Dist)";ETF;sector
+26;SXR0.DE;iShares VI Public Limited Company - iShares Edge MSCI World Minimum Volatility UCITS ETF;ETF;sector
+5;UEEH.DE;iShares Edge MSCI World Minimum Volatility UCITS ETF USD (Dist);ETF;sector
+4;WQDA.AS;iShares MSCI World Quality Dividend UCITS ETF USD Acc;ETF;sector
